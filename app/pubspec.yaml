@@ -1,0 +1,46 @@
+name: drinky
+version: 0.0.2+1
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+
+  flutter_launcher_icons: 0.9.1
+
+  url_launcher: ^6.0.9
+
+  # state management
+  provider: ^4.3.3
+
+  http: ^0.12.0+2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+#  run following command to change the icon -> $ flutter pub pub run flutter_launcher_icons:main
+flutter_icons:
+   image_path: "assets/images/iconv2.png"
+   android: true
+   ios: true
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo.png
+    - assets/images/bg-menu.png
+    - assets/images/logo-christmas.png
+    - assets/images/bg-home.png
+    - assets/images/sad.jpg
+    - assets/drink_codes.json
+    - assets/ingredient_codes.json
+    - assets/images/bottles/
+    - assets/images/drinks/
+

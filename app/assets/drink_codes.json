@@ -1,0 +1,1723 @@
+[
+  {
+    "name":"A.P. RONIK",
+    "category":"Pre Dinner",
+    "code":"1",
+    "story":"Questo cocktail è stato creato da Francesco Mattioli chiamato anche \"Vicarello\", barman dell'universale di Firenze.",
+    "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.digicocktails.com%2F89-cocktail-a-p-ronik-ingredienti-preparazione-e-storia.asp&psig=AOvVaw27pce9XgVA6vOfTVuy-itu&ust=1628030157983000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDc0o2zk_ICFQAAAAAdAAAAABAD",
+    "codes":[
+      61,
+      4,
+      70,
+      71
+    ],
+    "ingredients": "Acqua tonica, Aperol, Lime, Ghiaccio",
+    "doses":"2 parti di Tonica,1 parte di Aperol",
+    "preparation":"Pestate il lime direttamente dentro i bicchieri (Collins o Tumbler Alto). Aggiungere il ghiaccio e successivamente l'aperol. Colmate infine i bicchieri con la tonica."
+  },
+  {
+    "name":"ABBEY",
+    "category":"After Dinner",
+    "code":"2",
+    "story":"Citato in numerosi ricettari internazionali, è un classico cocktail da pomeriggio. Sconosciuta l'origine del suo nome (abbey, in inglese, significa “abbazia”).",
+    "img":"https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.tavolaegusto.it%2Fabbey%2F&psig=AOvVaw08sbIMnm0SIUcplvVO9ImY&ust=1628030562896000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDf-NK0k_ICFQAAAAAdAAAAABAD",
+    "codes":[
+      27,
+      57,
+      69,
+      71
+    ],
+    "ingredients": "Gin, Succo d'arancia, Orange bitter, Ghiaccio",
+    "doses":"1 parte di Gin,1 parte di Succo d'arancia,2 dash di Orange bitter",
+    "preparation":"Shakerare energicamente tutti gli ingredienti con del ghiaccio e versare, filtrando, in una coppetta cocktail. Decorare, con una ciliegina al maraschino posta sul bordo del bicchiere."
+  },
+  {
+    "name":"ACAPULCO GOLD COLADA",
+    "code":"3",
+    "category":"Long Drink",
+    "story":"Questa bevanda è molto popolare nei Caraibi, dove spesso viene servita direttamente in gusci di cocco o ananas. In sostituzione a essi si possono usare anche bicchieri decorati con colori accesi che in questo modo richiamano la sua origine tropicale.",
+    "img":"https://www.oggi.it/cucina/wp-content/uploads/sites/19/2014/06/Acapulco-gold-colada.jpg",
+    "codes":[
+      60,
+      47,
+      73,
+      72,
+      56,
+      71
+    ],
+    "ingredients": "Tequila, Rum Bianco, Crema di Cocco, Pompelmo, Succo d'ananas, Ghiaccio",
+    "doses":"3 cl di Tequila,2 cl di Rum Bianco,3 cl parti di Crema di Cocco,3 cl parti di Pompelmo,6 cl di Succo d'ananas",
+    "preparation":"Versare tutti gli ingredienti nel blender con del ghiaccio tritato. Centrifugare tutti gli ingredienti ad elevata velocità per circa una decina di secondi e versare in un tumbler grande.Decorare quindi il drink con una ciliegina e uno spicchio di pompelmo sul bordo. L'altra ciliegina e le cannucce invece vanno messe direttamente nel bicchiere."
+  },
+  {
+    "name":"ADONIS",
+    "category":"Pre Dinner",
+    "code":"4",
+    "story":"Questa bevanda nacque a Londra negli anni '50. Il suo nome deriva da quello della divinità greca Adone. Sebbene fosse conosciuta dai barman di tutto il mondo con essa si apriva il primo ricettario IBA del 1961, scomparve dai successivi cataloghi",
+    "img":"https://www.digicocktails.com/images/cocktails/73.jpg",
+    "codes":[
+      23,
+      64,
+      69
+    ],
+    "ingredients": "Dry Sherry, Vermouth Rosso, Orange bitter",
+    "doses":"4.5 cl di Dry Sherry,2.5 cl di Vermouth rosso,1 goccia di Orange bitter",
+    "preparation":"Versare gli ingredienti in un mixing glass riempito di ghiaccio e mescolare con uno stirrer. Filtrare poi con uno strainer in una coppetta da cocktail precedentemente raffeddata. Guarnire eventualmente con una scorza di arancia."
+  },
+  {
+    "name":"AFFINITY",
+    "category":"Pre Dinner",
+    "code":"5",
+    "story":"Un cocktail poco richiesto al giorno d'oggi. Nacque negli Stati Uniti negli anni 40'.",
+    "img":"https://www.digicocktails.com/images/cocktails/74.jpg",
+    "codes":[
+      68,
+      64,
+      63,
+      3
+    ],
+    "ingredients": "Whisky, Vermouth Rosso, Vermouth Dry, Angostura",
+    "doses":"3.5 cl di Whisky,1.5 cl di Vermut dry,1.5 cl di Vermut rosso,gocce di Angostura",
+    "preparation":"Mettere tutti gli ingredienti con del ghiaccio nel mixing glass e dopo aver mescolato con lo stirrer, versare filtrando con lo strainer. Servire in una coppetta da cocktail."
+  },
+  {
+    "name":"ALASKA",
+    "category":"Long Drink",
+    "code":"6",
+    "story":"Un drink nato negli Stati Uniti all'inizio del secolo. Alaska è un cocktail a base gin ed è probabilmente la massima espressione di un drink a base chartreuse. Deciso nel tenore alcolico, ha aroma erbaceo e sapore fresco. Viene definito come cocktail classico, buon rilassante e ottimo digestivo.",
+    "img":"https://www.digicocktails.com/images/cocktails/75.jpg",
+    "codes":[
+      27,
+      14,
+      69
+    ],
+    "ingredients": "Gin, Chartreuse Gialla, Orange Bitter",
+    "doses":"5 cl di Gin,2 cl di Chartreuse Gialla,2-3 gocce di Orange Bitter",
+    "preparation":"Shakerare velocemente tutti gli ingredienti con del ghiaccio e successivamente versare nella coppetta da cocktail.Servite subito."
+  },
+  {
+    "name":"ALEXANDER",
+    "category":"After Dinner",
+    "code":"7",
+    "story":"Nel 1922 in Inghilterra, con una gran cerimonia l'affascinante Mary Princess si univa in matrimonio con Lord Lascelles . Harry MacElhone , uno dei più grandi barman che siano mai esistiti, e che in quel periodo lavorava al \"Ciro's Club\" di Londra, in occasione delle nozze creò un cocktail (a cui diede il nome Alexander ) e il suo colore bianco voleva essere un omaggio verso la giovane sposa.",
+    "img":"https://www.digicocktails.com/images/cocktails/3.jpg",
+    "codes":[
+      10,
+      74,
+      75,
+      76
+    ],
+    "ingredients": "Cognac, Crema di cacao scura, Crema di latte o Panna liquida",
+    "doses":"3 cl di Cognac,3 cl di crème de cacao scura,3 cl di Crema di latte (o Panna liquida)",
+    "preparation":"Versare gli ingredienti in uno shaker pieno di ghiaccio e shakerare molto vigorosamente. Filtrare dunque in una coppetta da cocktail e guarnire eventualmente con una spolverata di noce moscata."
+  },
+  {
+    "name":"AMARETTO COLADA",
+    "category":"Long Drink",
+    "code":"8",
+    "story":"Un cocktail ideale per una serata di festa movimentata. Questo drink è molto diffuso negli Stati Uniti e nei paesi del centro America. Il nome deriva dal liquore all'amaretto di Saronno usato come correttore.",
+    "img":"https://www.digicocktails.com/images/cocktails/76.jpg",
+    "codes":[
+      47,
+      56,
+      1,
+      73,
+      71
+    ],
+    "ingredients": "Rum Bianco, Succo d'ananas, Amaretto di Saronno, Crema di Cocco, Ghiaccio",
+    "doses":"2 cl di Rum Bianco,5 cl di Succo d'ananas,1 cl di Amaretto di Saronno,3 cl di Crema di Cocco",
+    "preparation":"Mescolare gli ingredienti con del ghiaccio tritato per una decina di secondi nel blender e versare in un bicchiere tumbler. Questo drink va decorato mettendo una ciliegina direttamente dentro il bicchiere con delle cannucce. Decorare anche con uno spicchio d'ananas e una ciliegina sul bordo del tumbler."
+  },
+  {
+    "name":"AMARETTO SOUR",
+    "category":"After Dinner",
+    "code":"9",
+    "story":"La storia dietro l'Amaretto Sour si perde nei secoli. Il primo passo è fare in modo che l'amaretto utilizzato sia di buona qualità poiché è un ingrediente fondamentale per il gusto di questo cocktail. In secondo luogo, utilizzare il succo appena spremuto e non zuccherato per massimizzare i sapori croccanti e aspri per ottenere una bevanda ben bilanciata.",
+    "img":"https://www.digicocktails.com/images/cocktails/78.jpg",
+    "codes":[
+      1,
+      58,
+      77,
+      71
+    ],
+    "ingredients": "Amaretto di Saronno, Succo di limone, Sciroppo di zucchero, Ghiaccio",
+    "doses":"5 cl di Amaretto di Saronno,2.5 cl di Succo di limone,1.5 cl di Sciroppo di zucchero",
+    "preparation":"Mescolare gli ingredienti con del ghiaccio tritato per una decina di secondi nel blender e versare in una coppetta da cocktail. L’amaretto sour è un cocktail dal sapore pungente con una nota di mandorla, perfetto da gustare di giorno oppure la sera."
+  },
+  {
+    "name":"AMERICANO",
+    "category":"Pre Dinner",
+    "code":"10",
+    "story":"Nasce con l'unione di due case liquoristiche (Torino per il Vemouth, Milano per il Bitter Campari), si dice che sia nato dopo la prima guerra mondiale",
+    "img":"https://www.digicocktails.com/images/cocktails/1.jpg",
+    "codes":[
+      8,
+      64,
+      78,
+      71
+    ],
+    "ingredients": "Bitter Campari, Vermouth Rosso, Soda Water, Ghiaccio",
+    "doses":"3 cl di Bitter Campari,3 cl di Vermouth rosso,3 cl Soda Water",
+    "preparation":"Preparare direttamente in un bicchiere Old Fashioned o Tumbler Basso, con 2 o 3 cubetti di ghiaccio. Versare il Martini Rosso, il Bitter Campari e la Soda Water. Decorare con una scorza di limone e mezza fetta d'arancia."
+  },
+  {
+    "name":"ANGEL FACE",
+    "category":"After Dinner",
+    "code":"11",
+    "story":"Sembra che questo cocktail sia nato a Parigi negli anni della Grande Guerra. Gradevole e vellutato, grazie all'aroma del Calvados e dell'Apricot Brandy.Ottimo nella tarda serata come drink da conversazione.",
+    "img":"https://www.digicocktails.com/images/cocktails/48.jpg",
+    "codes":[
+      27,
+      5,
+      79
+    ],
+    "ingredients": "Gin, Apricot Brandy, Calvados",
+    "doses":"3 cl di Gin,3 cl di Apricot Brandy,3 cl di Calvados",
+    "preparation":"Versare tutti gli ingredienti nello shaker insieme al ghiaccio e agitare energicamente per pochi secondi; versare nella coppetta da cocktail."
+  },
+  {
+    "name":"ANGEL'S DELIGHT",
+    "category":"After Dinner",
+    "code":"12",
+    "story":"Questo drink in italiano \"delizia d'angelo\" fa parte della grande famiglia dei Pousse café. L'Angel Delight naque a Parigi come cocktail digestivo intorno agli anni 20'.",
+    "img":"https://www.digicocktails.com/images/cocktails/79.jpg",
+    "codes":[
+      29,
+      17,
+      62,
+      27,
+      75,
+      76
+    ],
+    "ingredients": "Sciroppo di granatina, Cointreau o Triple Sec, Gin, Crema di latte o panna liquida",
+    "doses":"2 cl Sciroppo di granatina,2.5 cl di Cointreau o Triple Sec,2.5 cl di Gin,2.5 cl di Crema di latte o panna liquida",
+    "preparation":"Questo cocktail si prepara mettendo tutti gli ingredienti direttamente nel bicchiere facendo molta attenzione a non mescolarli tra loro. Per fare cio è importante usare un cucchiaio appoggiato all'orlo del bicchiere e con questo far scivolare gli ingredienti direttamente sul vetro. In questo modo si crea un interessante e piacevole effetto visivo."
+  },
+  {
+    "name":"APRICOT FLIP",
+    "category":"Long Drink",
+    "code":"13",
+    "story":"Flip è una categoria di cocktail che incorpora un uovo tra gli ingredienti principali. Il termine 'Flip' fu usato per la prima volta alla fine del 1600 per descrivere una miscela di birra, rum e zucchero, riscaldata con un ferro rovente. Da allora si è evoluto in una bevanda che include del vino fortificato miscelato con un uovo intero e dolcificato con lo zucchero tipicamente guarnito con noce moscata grattugiata.",
+    "img":"https://images.absolutdrinks.com/drink-images/Raw/Absolut/70d12ffa-8a12-406d-8279-ce73543d63b1.jpg?imwidth=500",
+    "codes":[
+      16,
+      5,
+      77,
+      80
+    ],
+    "ingredients": "Cognac, Apricot Brandy, Sciroppo di zucchero, Uovo",
+    "doses":"6 cl di Cognac,2.5 cl di Apricot Brandy,1.5 cl di Sciroppo di zucchero,1 Uovo",
+    "preparation":"Per prima cosa controllate la qualità dell'uovo, se l'uovo è fresco affonderà mentre se è vecchio galleggerà. Unite tutti gli ingredienti nel vostro shaker. Shakerate a secco (senza ghiaccio) e successivamente con ghiaccio. Versate in un bicchiere da cocktail precedentemente raffreddato. Decorate infine con della noce moscata grattugiata."
+  },
+  {
+    "name":"AVIATION",
+    "category":"After Dinner",
+    "code":"14",
+    "story":"L'aviation cocktail è un cocktail creato nel 1916, durante la prima guerra mondiale, in onore dei piloti inglesi. Questo drink ha 2 possibili ideatori: La prima narra dell'improvvisazione di un barman di un circolo di ufficiali di aviazione, di un campo volo dietro la prima linea, che lo miscelò in onore dei piloti inglesi (prima guerra mondiale). Venne usato spesso come cocktail commemorativo o una sorta di rituale, con il quale i piloti brindavano al loro ritorno. La seconda teoria fa corrispondere il creatore come il primo a trascrivere la ricetta : Hugo Ensslin, nel 1916, dedicandolo ai pionieri dell'aviazione",
+    "img":"https://www.digicocktails.com/images/cocktails/52.jpg",
+    "codes":[
+      27,
+      38,
+      58,
+      81
+    ],
+    "ingredients": "Gin, Maraschino, Succo di limone, Liquore alla violetta",
+    "doses":"4.5 cl di gin,1.5 cl di maraschino,1.5 cl di succo di limone fresco,0.5 cl liquore alla violetta",
+    "preparation":"Viene preparato prendendo una coppetta di cocktail e riempiendola di ghiaccio. In un secondo bicchiere pieno di ghiaccio sono versati 4,5 cl di gin, aggiungendo 1,5 cl di maraschino, 0,5 cl di creme de violette (opzionale) e 1,5 cl di succo di limone fresco. Il tutto viene versato in uno shaker ed agitato. Il contenuto viene versato nella coppetta da cocktail svuotata precedentemente dal ghiaccio. Il cocktail viene guarnito con una ciliegia (o meglio una marasca) oppure con scorza di limone a spirale, precedentemente spremuta sopra il cocktail, ed è servito senza cannuccia."
+  },
+  {
+    "name":"B&B",
+    "category":"After Dinner",
+    "code":"15",
+    "story":"",
+    "img":"https://www.digicocktails.com/images/cocktails/9.jpg",
+    "codes":[
+      7,
+      10
+    ],
+    "ingredients": "Benedictine, Brandy",
+    "doses":"3.5 cl di Benedictine, 3.5 cl di Brandy",
+    "preparation":"Preparare in un Tumbler Basso (Old Fashioned) versando la benedictine ed il Brandy (da questo deriva il nome B&B) direttamente su 4 o 5 cubetti di ghiaccio. Decorare con mezza fetta di limone."
+  },
+  {
+    "name":"B52",
+    "category":"After Dinner",
+    "code":"16",
+    "story":"Il nome si riferisce al bombardiere a lungo raggio B-52 \"Fortezza Volante\", che è stato usato nella Guerra del Vietnam per sganciare le bombe incendiarie al napalm (ed è probabilmente da ciò che è nata la versione infiammabile).",
+    "img":"https://www.digicocktails.com/images/cocktails/46.jpg",
+    "codes":[
+      32,
+      6,
+      30
+    ],
+    "ingredients": "Liquore al caffe Kahlúa, Baileys, Grand Marnier",
+    "doses":"2 cl di Liquore al caffe Kahlua,2 cl di Baileys,2 cl di Grand Marnier",
+    "preparation":"Normalmente viene servito nei bicchierini shot. Per primo si versa nel bicchierino il liquore al caffè (per esempio Tia Maria o Kahlua), successivamente si versa la Crema Baileys molto lentamente facendola scorrere sul retro di un cucchiaio da cocktail (quelli col manico molto lungo) prestando attenzione al disturbare il meno possibile lo strato inferiore versando quello superiore. Allo stesso modo, sempre con molta attenzione, si versa il Grand Marnier sopra il tutto. Per la versione infiammabile è sufficiente sostituire il Grand Marnier con un rum scuro ad alta gradazione alcolica (dal 60 all'80 %), questo per permettere la combustione. Metterlo nella parte alta del bicchiere (al posto del Grand Marnier) permette di ridurre la temperatura sulla parte bassa del bicchierino evitando che si rompa. Il modo migliore per berlo è lasciarlo sul bancone e berlo usando una cannuccia, ovviamente (a meno che le fiamme non vengano spente prima di bere) si consiglia di usare una cannuccia di metallo ignifuga, inoltre è consigliabile berlo velocemente onde evitare che le fiamme raggiungano anche gli strati inferiori."
+  },
+  {
+    "name":"BACARDI",
+    "category":"Pre Dinner",
+    "code":"17",
+    "story":"Il Bacardi è una variante del cocktail Daiquiri (che contiene Rum, succo di lime o limone e sciroppo di zucchero, anziché lo sciroppo di granatina). La versione che conosciamo noi oggi è nata negli USA. Le prime ricette del  apparvero verso il 1917, in un ricettario di Tom Bullock, “Ideal Bartender”.",
+    "img":"https://www.digicocktails.com/images/cocktails/4.jpg",
+    "codes":[
+      47,
+      58,
+      29
+    ],
+    "ingredients": "Rum Bianco , Succo di limone, Sciroppo di granatina",
+    "doses":"4.5 cl di rum Bacardi Carta Blanca,2 cl di Succo di lime,1 cl Sciroppo di granatina",
+    "preparation":"Agitare tutti gli ingredienti nello shaker e servire in coppetta da cocktail."
+  },
+  {
+    "name":"BAHIA",
+    "category":"Long Drink",
+    "code":"18",
+    "story":"Questo drink è il più vecchio drink della famiglia delle Coladas. La Bahia è un cocktail nato nei Caraibi. Per qualche sua caratteristica è simile al Pina Colada, ma differisce da quest'ultimo per la presenza tra gli ingredienti della polpa di pompelmo e del rum ambrato al posto di quello bianco. Una particolarità di questo drink sta nella sua decorazione, oltre ai classici ananas e ciliegine infatti presenta tra gli ingredienti un rametto di menta.",
+    "img":"https://www.digicocktails.com/images/cocktails/80.jpg",
+    "codes":[
+      46,
+      73,
+      56,
+      86
+    ],
+    "ingredients": "Rum Ambrato, Crema di Cocco, Succo d'ananas, Succo di pompelmo",
+    "doses":"9 cl di Rum Ambrato,1.5 cl di Crema di Cocco,4.5 cl di Succo d'ananas,4.5 cl di Succo di pompelmo",
+    "preparation":"Svuotare un pompelmo aiutandosi con un cucchiaio.Successivamente porre la polpa del frutto ben mondata dalla pellicola bianca con del ghiaccio tritato e il rum ambrato, la crema di cocco e il succo di ananas in un blender. Centrifugare tutti gli ingredienti per circa 20 secondi ad alta velocità e versare in un tumbler grande. Decorare infine il cocktail con un trancio di ananas, due ciliegine rosse, un rametto di menta e le cannucce."
+  },
+  {
+    "name":"BANANA DAIQUIRI",
+    "category":"After Dinner",
+    "code":"19",
+    "story":"Il daiquiri è un cocktail da aperitivo di tipo sour di origini caraibiche a base di rum bianco, succo di lime e sciroppo di zucchero, servito in coppetta da cocktail. È un cocktail riconosciuto ufficialmente dall'IBA. Secondo una leggenda l'inventore del Banana Daiquiri è stato un ingegnere minerario di nome Jennings S. Cox. Mentre fu probabilmente Constantino Ribalaigua Vert, mentre lavorava come barman al bar El Floridita, a rendere famoso questo cocktail nella sua composizione attuale.",
+    "img":"https://www.digicocktails.com/images/cocktails/90.jpg",
+    "codes":[
+      47,
+      98,
+      58
+    ],
+    "ingredients": "Rum Bianco, Crema di banana, Succo di limone",
+    "doses":"6 cl di Rum Bianco, Crema di 1/2 banana,2.5 cl di Succo di limone",
+    "preparation":"Frullate nel blender mezza banana insieme a un cucchiaio di ghiaccio tritato e il succo di limone o di lime. Aggiungete il rum e la crema di banana. Shakerate bene e ersate nei goblet. Decorate ciascuno con una rondella di banana."
+  },
+  {
+    "name":"BASIL",
+    "category":"Pre Dinner",
+    "code":"20",
+    "story":"Questo \"Pre Dinner\" è stato creato da Omar Cognati, barman e istruttore presso la scuola Flair Academy di Milano.",
+    "img":"https://www.digicocktails.com/images/cocktails/91.jpg",
+    "codes":[
+      77,
+      58,
+      66,
+      87,
+      71
+    ],
+    "ingredients": "Sciroppo di zucchero, Succo di limone, Vodka, Basilico, Ghiaccio",
+    "doses":"1.5 cl Sciroppo di zucchero,3 cl di Succo di limone,5 cl di Vodka,6 foglie di Basilico",
+    "preparation":"Mettete tutti gli ingredienti nel blender e frullate. Poi versate nei tumbler alti. Servite con ghiaccio e due cannucce. Decorate con una cima di basilico, e uno spiedino con 2 olive e una fetta di limone."
+  },
+  {
+    "name":"BEACH VOLLEY",
+    "category":"After Dinner",
+    "code":"21",
+    "story":"Questo cocktail dal sapore intenso e fruttato ricorda l'estate. Il Beach Volley è perfetto come \"After Dinner\" per le vostre calde estati estive. Si tratta di un cocktail fresco e giovane, ideale per chi ama un tenore alcolico alto senza rinunciare ai sapori morbidi.",
+    "img":"https://www.digicocktails.com/images/cocktails/92.jpg",
+    "codes":[
+      27,
+      47,
+      56,
+      71
+    ],
+    "ingredients": "Gin, Rum Bianco, Succo d'ananas, Ghiaccio",
+    "doses":"1/3 Gin,1/3 Rum Bianco,1/3 Succo d'ananas",
+    "preparation":"Raffreddate lo shaker, poi scolate l'acqua in eccesso. Versateci il gin, il rum e il succo d'ananas e agitate bene. Servite nei tumbler bassi, guarnendo ciascuno con i cubetti di ananas, la ciliegina al maraschino e la ciliegina sciroppata."
+  },
+  {
+    "name":"BETWEEN THE SHEETS (MAIDEN'S PRAYER)",
+    "category":"After Dinner",
+    "code":"22",
+    "story":"Secondo alcune fonti questo drink è la metamorfosi del cocktail “Sidecar”, un mix composto da Brandy o da Cognac, Cointreau o Triple Sec e Succo di Limone; ingredienti presenti nello stesso \"Between the Sheets\". Negli anni il “Sidecar” fu spesso modificato con il cambiamento di un ingrediente, portando così alla realizzazione di un conseguente e nuovo drink. Un esempio può essere il “Cuban Side-Car” presente nel libro di Albert S. Crockett “The Old Waldorf-Astoria Bar Book“ o il “Rum Sidecar” nel libro “Bartender's Guide” di Trader Vic del 1947.",
+    "img":"https://www.digicocktails.com/images/cocktails/51.jpg",
+    "codes":[
+      16,
+      47,
+      17,
+      62,
+      58
+    ],
+    "ingredients": "Cognac, Rum Bianco,Cointreau o Triple sec, Succo di limone",
+    "doses":"3 cl di Cognac,3 cl di Rum bianco,3 cl di Cointreau o Triple sec,2 cl di succo di limone fresco",
+    "preparation":"Mettete il Cognac, il Rum bianco, il triple sec e il succo di limone nello shaker con ghiaccio tritato. Shekerare energicamente, quindi filtrate nella coppetta cocktail precedentemente ghiacciata."
+  },
+  {
+    "name":"BLACK RUSSIAN",
+    "category":"After Dinner",
+    "code":"23",
+    "story":"Il Black Russian nacque nel 1949 dalla creatività di Gustave Tops barman dell'hotel Metropole di Bruxelles. Il cocktail fu preparato per l'ambasciatore americano in Lussemburgo Pearl Mesta",
+    "img":"https://www.digicocktails.com/images/cocktails/7.jpg",
+    "codes":[
+      66,
+      32
+    ],
+    "ingredients": "Vodka, Liquore al caffe Kahlúa",
+    "doses":"5 cl di Vodka,2 cl di Liquore al caffè",
+    "preparation":"Miscelare direttamente sul ghiaccio in un bicchiere old fashioned privo di decorazioni."
+  },
+  {
+    "name":"BLOODY MARY",
+    "category":"Long Drink",
+    "code":"24",
+    "story":"L'origine del Bloody Mary è oggetto di disputa. Una versione vuole che venne creato originariamente dall'attore George Jessel attorno al 1939. Lucius Beebe, nella sua colonna scandalistica \"This New York\" (New York Herald Tribune, 2 dicembre 1939, pagina 9), pubblicò quello che si ritiene sia il primo riferimento a questo drink, assieme alla ricetta originale: \"Il nuovo tonico di George Jessel, che sta ricevendo attenzione dagli editorialisti della città, è chiamato Bloody Mary: metà succo di pomodoro, metà vodka.\"",
+    "img":"https://www.digicocktails.com/images/cocktails/8.jpg",
+    "codes":[
+      66,
+      88,
+      58,
+      89,
+      90,
+      91,
+      92,
+      71
+    ],
+    "ingredients": "Vodka, Succo di pomodoro, Succo di limone, Salsa Worcestershire, Sale, Pepe, Tabasco, Ghiaccio",
+    "doses":"4.5 cl di vodka,9 cl di succo di pomodoro,1.5 cl di succo di limone,2/3 gocce di salsa Worcestershire,1 pizzico di sale al sedano e di pepe nero,Tabasco",
+    "preparation":"Si prepara direttamente nel bicchiere tumbler alto con ghiaccio. Aggiungere worchester, Tabasco, sale e pepe quanto basta."
+  },
+  {
+    "name":"BLUE LAGOON",
+    "category":"After Dinner",
+    "code":"25",
+    "story":"Questo cocktail nasce negli anni 80' a Parigi, nel famoso Harry´s New York Bar. Visto il suo grande successo, molti bar vollero avere questo cocktail nel loro menù e quindi nacquero differenti varietà.",
+    "img":"https://www.digicocktails.com/images/cocktails/94.jpg",
+    "codes":[
+      21,
+      66,
+      56
+    ],
+    "ingredients": "Curaçao Blu, Vodka, Succo d'ananas",
+    "doses":"2 cl di Curacao Blu,4 cl di Vodka,4 cl di Succo d'ananas",
+    "preparation":"Dopo aver raffreddato le coppette cocktail, fate lo stesso con lo shaker, quindi scolate l'acqua in eccesso e versate la vodka, il curacao blu e il succo di ananas. Shakerate per alcuni secondi e servite nelle coppette, decorate con una fettina di ananas"
+  },
+  {
+    "name":"BRONX",
+    "category":"Pre Dinner",
+    "code":"26",
+    "story":"Come per molti altri cocktail creati nel periodo del proibizionismo, molte storie esistono sulla creazione di questo cocktail.",
+    "img":"https://www.digicocktails.com/images/cocktails/54.jpg",
+    "codes":[
+      27,
+      63,
+      64,
+      57
+    ],
+    "ingredients": "Gin, Vermouth Dry, Vermouth Rosso, Succo d'arancia",
+    "doses":"4 cl di Gin,2 cl di Vermouth Dry,2 cl di Vermouth Rosso,2 cl di Succo d'arancia",
+    "preparation":"Viene preparato nello shaker con l'aggiunta di ghiaccio. Si serve nella coppetta cocktail e non presenta guarnizioni."
+  },
+  {
+    "name":"BULLDOG",
+    "category":"Long Drink",
+    "code":"29",
+    "story":"",
+    "img":"https://www.digicocktails.com/images/cocktails/45.jpg",
+    "codes":[
+      93,
+      66,
+      67
+    ],
+    "ingredients": "Red Bull, Vodka, Vodka alla fragola",
+    "doses":"5/10 Red Bull,2.5/10 Vodka,2.5/10 Vodka alla fragola",
+    "preparation":"Preparare direttamente in un bicchiere tumbler medio con alcuni cubetti di ghiaccio e versare la Red Bull e la vodka (50% alla fragola e 50% liscia). Decorare con uno spiedino di fragole."
+  },
+  {
+    "name":"CAIPIRINHA",
+    "category":"After Dinner",
+    "code":"30",
+    "story":"La caipirinha è un cocktail tipicamente brasiliano, a base di cachaça, lime, zucchero di canna e ghiaccio. Il termine deriva dal diminutivo della parola portoghese caipira che viene usato per designare gli abitanti delle zone rurali e remote del Brasile. In Brasile è servita nella maggior parte dei ristoranti ed è considerata una bevanda caratteristica del paese.",
+    "img":"https://www.digicocktails.com/images/cocktails/14.jpg",
+    "codes":[
+      11,
+      70,
+      84,
+      71
+    ],
+    "ingredients": "Cachaça, Lime, Zucchero di canna, Ghiaccio",
+    "doses":"6 cl di cachaça,mezzo lime,zucchero di canna o in alternativa bianco (3 cucchiaini da tè),ghiaccio tritato",
+    "preparation":"Preparare in un Tumbler Basso (Old Fashioned). Tagliare il Lime a metà e poi in dodici pezzetti tutti di uguale misura, adagiare i cubetti nel bicchiere. Aggiungere lo zucchero e con il pestello esercitare una leggera pressione sulla polpa del Lime, è utile eseguire movimenti rotatori, per fare uscire il succo, facendo attenzione a non comprimere troppo la buccia amara. Aggiungono i cubetti di ghiaccio spaccati e infine la cachaça. Come guarnizione aggiungera una fetta di Lime (tagliata sottile) inserendola sul bordo del bicchiere. Servire il drink con due cannucce corte. Il drink non va shakerato né agitato."
+  },
+  {
+    "name":"CAIPIRISSIMA",
+    "category":"After Dinner",
+    "code":"31",
+    "story":"Differisce dalla classica Caipirina per l'impiego del rum bianco al posto del cachaca. Caipir-issima, Caipir-inha, Caipir-oska: la radice del termine deriva dal diminutivo della parola portoghese \"Caipira\", adoperata per identificare gli abitanti con minore scolarizzazione, quindi più poveri, dell'entroterra brasiliano.",
+    "img":"https://www.digicocktails.com/images/cocktails/95.jpg",
+    "codes":[
+      47,
+      70,
+      84,
+      71
+    ],
+    "ingredients": "Rum Bianco, Lime, Zucchero di canna, Ghiaccio",
+    "doses":"6 cl di Rum Bianco,mezzo lime,zucchero di canna o in alternativa bianco (3 cucchiaini da tè),ghiaccio tritato",
+    "preparation":"Pestate direttamente negli old fashioned i pezzetti di lime con lo zucchero di canna, aiutandovi con il muddler. Aggiungete 3-4 cubetti di ghiaccio e il rum bianco mescolate con lo stirrer. Servite con una cannuccia corta."
+  },
+  {
+    "name":"CAIPIROSKA",
+    "category":"After Dinner",
+    "code":"32",
+    "story":"La caipiroska è una variante della caipirinha, cocktail tipicamente brasiliano, a base di cachaça, lime, zucchero di canna e ghiaccio. In questo caso al posto della cachaça si utilizza la vodka.",
+    "img":"https://www.digicocktails.com/images/cocktails/13.jpg",
+    "codes":[
+      66,
+      70,
+      84,
+      71
+    ],
+    "ingredients": "Vodka, Lime, Zucchero di canna, Ghiaccio",
+    "doses":"6 cl di Vodka,mezzo lime,zucchero di canna o in alternativa bianco (3 cucchiaini da tè),ghiaccio tritato",
+    "preparation":"Preparare in un Tumbler Basso (Old Fashioned) con un lime tagliato a cubetti su cui versare un paio di cucchiaini di zucchero (preferibilmente di canna). Versare il ghiaccio a scaglie e successivamente la vodka. Servire con cannucce corte."
+  },
+  {
+    "name":"CAIPIROSKA ALLA FRAGOLA",
+    "category":"After Dinner",
+    "code":"33",
+    "story":"La Caipiroska è una rivisitazione della Caipirinha. La preparazione e gli ingredienti dei due cocktail sono simili: cambia la base alcolica (Cachaca per la Caipirinha, Vodka secca per la Caipiroska) oltre l'aggiunta delle fragole nella Caipiroska.",
+    "img":"https://www.digicocktails.com/images/cocktails/82.jpg",
+    "codes":[
+      66,
+      53,
+      100,
+      58,
+      84,
+      71
+    ],
+    "ingredients": "Vodka, Sciroppo di fragola, Fragole, Succo di limone, Zucchero di canna, Ghiaccio",
+    "doses":"6 cl di 66,2.5 cl di Sciroppo di fragola,1.5 cl Succo di limone,zucchero di canna o in alternativa bianco (3 cucchiaini da tè),ghiaccio tritato",
+    "preparation":"Frullate nel blender le fragole con il succo di limone e lo sciroppo di fragola. Ponete nei tumbler o old fashioned i pezzetti di lime e pestateli con il muddler. Uniteci la polpa di fragola frullata, abbondante ghiaccio tritato e vodka. Mescolate bene con lo stiller e servite con una cannuccia corta."
+  },
+  {
+    "name":"CARLIS",
+    "category":"Long Drink",
+    "code":"35",
+    "story":"Questo cocktail appartiene alla categoria dei Long Drink ed è stato inventato da Jorge Alberto Soratti,vincitore Concorso Nazionale AIBES dell'anno 1998.",
+    "img":"https://www.digicocktails.com/images/cocktails/84.jpg",
+    "codes":[
+      27,
+      85,
+      101,
+      102,
+      103
+    ],
+    "ingredients": "Gin, Vodka alla pesca, Passoã, Banana Camel, Succo tropicale",
+    "doses":"3 cl di Gin,2 cl di Vodka alla pesca,1 cl di Passoa,2 cl di Banana Camel,2 cl di Succo tropicale",
+    "preparation":"Raffreddate lo shaker, poi scolate l'acqua in eccesso. Versateci il gin, la vodka, il passoa, il banana camel e il succo tropicale. Shakerate bene e versate il tutto nei tumbler alti riempiti con cubetti di ghiaccio. Infine decorate ciascun tumbler con uno spicchio di ananas, un mandarino cinese e una ciliegina. Servite con due cannucce."
+  },
+  {
+    "name":"CHEROKEE",
+    "category":"Long Drink",
+    "code":"37",
+    "story":"Questo cocktail si chiama cosi perchè il nome allude al colore ambrato, che richiama la carnagione degli indiani Cherokee.",
+    "img":"https://www.digicocktails.com/images/cocktails/96.jpg",
+    "codes":[
+      27,
+      8,
+      57,
+      4,
+      86,
+      71
+    ],
+    "ingredients": "Gin, Bitter Campari, Succo d'arancia, Aperol, Succo di pompelmo, Ghiaccio",
+    "doses":"3 cl di Gin,1.5 cl di Bitter Campari,2 cl di Succo d'arancia,1.5 cl di Aperol,2 cl di Succo di pompelmo",
+    "preparation":"Preparate questo cocktail direttamente nei tumbler \"on the rocks\", miscelando gli ingredienti con lo stirrer. Decorate ciascun bicchiere con una spirale di scorza di limone, una ciliegina rossa e un ciuffetto di menta. Servite con una cannuccia."
+  },
+  {
+    "name":"CHOCOLATE MARTINI",
+    "category":"After Dinner",
+    "code":"38",
+    "story":"Il martini al cioccolato è stato inventato nel 1955 in America. Una recente invenzione rispetto ad altri martini, è stata creata nientemeno che dalle leggendarie star del cinema di Hollywood, Rock Hudson ed Elizabeth Taylor quando si sono incontrate durante la realizzazione del film Giant a Marfa, in Texas. Entrambi erano grandi amici e amanti delle bevande al cioccolato e dei martini. Per inciso, una sera, hanno creato il martini al cioccolato mescolando sciroppo di cioccolato e liquore al cioccolato, con vodka martini. La bevanda incredibilmente gustosa raggiunse grande popolarità in America.",
+    "img":"data:image/jpeg;base64,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",
+    "codes":[
+      66,
+      94
+    ],
+    "ingredients": "Vodka, Crema di cacao bianca",
+    "doses":"6 cl di Vodka,4 cl di Crema di cacao bianca",
+    "preparation":"Per preparare il Chocolate Martini unite i due ingredienti in uno shaker con del ghiaccio, agitare vigorosamente per 10-15 secondi. Versate in un bicchiere da cocktails e servire."
+  },
+  {
+    "name":"COSMOPOLITAN",
+    "category":"Pre Dinner",
+    "code":"39",
+    "story":"Il Cosmopolitan è un cocktail classico che fa pensare subito a New York. Infatti, il Cosmopolitan, servito nel bicchiere a cono, fu bevuto la prima volta dalla cantante Madonna alla Rainbow Room di New York ma è divenuto famoso per la serie televisiva Sex and the City grazie ad una delle protagoniste, Carrie Bradshaw, che racconta la sua vita durante le feste mondane sorseggiando questo drink dal colore rosso.",
+    "img":"https://www.digicocktails.com/images/cocktails/64.jpg",
+    "codes":[
+      66,
+      17,
+      62,
+      83,
+      97
+    ],
+    "ingredients": "Vodka, Cointreau o Triple Sec, Succo di lime, Succo di mirtillo",
+    "doses":"4 cl di vodka,1.5 cl di cointreau,1.5 cl succo di lime,3 cl succo di mirtillo o mirtillo rosso",
+    "preparation":"Versate in uno shaker la vodka, il triple sec, il succo di cranberry e qualche cubetto di ghiaccio. Spremete un limone, filtratene il succo, versatelo nello shaker, chiudetelo col secondo boccale e shakerate. Agitate energicamente fino a far divenire lo shaker ben freddo. Versate il cocktail nel classico bicchiere a cono e filtrate il ghiaccio con uno strainer. Tagliate una fetta sottile di lime incidendolo leggermente per applicarla sul bicchiere da guarnire. Gustatelo ancora freddo."
+  },
+  {
+    "name":"CUBA LIBRE",
+    "category":"Long Drink",
+    "code":"40",
+    "story":"Il Cuba libre è un cocktail appartenente alla categoria dei Long Drinks a base di rum e Cola, molto richiesto al banco. Deve il suo nome all'isola di Cuba, ma sulla sua nascita sono state fatte molte ipotesi. Una di esse afferma che il Cuba Libre nacque per festeggiare l'indipendenza di Cuba dalla Spagna, ottenuta con l'aiuto degli Stati Uniti: un barman cubano unì la Coca Cola (prodotto tipico degli USA) al rum (prodotto tipico cubano) per unire simbolicamente le due nazioni. In origine il Cuba libre era un Daiquiri allungato con Cola. In seguito ha assunto una versione più semplice.",
+    "img":"https://www.digicocktails.com/images/cocktails/15.jpg",
+    "codes":[
+      47,
+      18,
+      83,
+      71
+    ],
+    "ingredients": "Rum chiaro, Cola, Succo di lime, Ghiaccio",
+    "doses":"5 cl di rum chiaro,12 cl di cola,1 cl di succo di lime",
+    "preparation":"Versare il Rum, la Cola e miscelare delicatamente. Da servire in un tumbler alto colmo di ghiaccio e guarnire con una fetta di lime"
+  },
+  {
+    "name":"CUBA LIBRE CUBANO",
+    "category":"Long Drink",
+    "code":"41",
+    "story":"Variante del Cuba libre classico.",
+    "img":"https://www.digicocktails.com/images/cocktails/15.jpg",
+    "codes":[
+      47,
+      46,
+      18,
+      83,
+      59,
+      71
+    ],
+    "ingredients": "Rum chiaro, Rum ambrato, Cola, Succo di lime, sweet'n'sour, Ghiaccio",
+    "doses":"5 cl di Rum chiaro,2 cl di Rum ambrato,12 cl di Cola,1 cl di Succo di lime,Sweet'n'sour q.b.",
+    "preparation":"Rum, Cola, Miscelare delicatamente. Da servire in un tumbler alto colmo di ghiaccio e guarnire con una fetta di lime"
+  },
+  {
+    "name":"DAIQUIRI FROZEN BANANA",
+    "category":"After Dinner",
+    "code":"43",
+    "story":"Il Daiquiri o Daiquirì è un cocktail di origini caraibiche a base di rum, succo di lime e zucchero di canna sciolto (sciroppo di zucchero). Può essere servito in molti modi e arricchito con succhi di frutta. Famosi sono il Daiquiri alla fragola e alla pesca. Anche il Banana Daiquiri è una versione del Daiquiri moderna. La ricetta internazionale dell'IBA non prevede la crema di banana, mentre altri ricettari la consigliano.",
+    "img":"https://www.digicocktails.com/images/cocktails/5.jpg",
+    "codes":[
+      47,
+      98,
+      83,
+      109
+    ],
+    "ingredients": "Rum Bianco, Crema di banana, Succo di lime, Banana",
+    "doses":"6 cl di Rum Bianco,Crema di 1/2 banana,1.5 cl di Succo di lime",
+    "preparation":"Frullare nel blender con ghiaccio a scaglie e versare senza filtrare in un calice. Decorare con mezza banana e cannucce corte."
+  },
+  {
+    "name":"DAIQUIRI FROZEN FRAGOLA",
+    "category":"After Dinner",
+    "code":"44",
+    "story":"Il Daiquiri è un cocktail cult bevuto in tutto il mondo. La leggenda narra che nei pressi di Santiago di Cuba, esistesse un piccolo villaggio chiamato Daiquiri, oggi conosciuto come Playa Daiquiri. Qui un giorno sbarcò un marinaio molto assetato, che per la fretta di bere qualcosa entrò in una baracca che offriva la mescita, ma si rifiutò di bere un Rum liscio, così chiese di farselo allungare con del succo di limone e poi ci aggiunse dello zucchero. Nacque così il primo “Daiquiri”. Il Daiquiri alla fragola è uno dei cocktail più amati. La combinazione di rum e fragole è unica, la dolcezza delle fragole richiama quella del rum e il tutto è reso fresco dal sapore del succo di lime.",
+    "img":"https://www.digicocktails.com/images/cocktails/62.jpg",
+    "codes":[
+      47,
+      83,
+      77,
+      100
+    ],
+    "ingredients": "Rum Bianco , Succo di lime, Sciroppo di zucchero, Fragole",
+    "doses":"6 cl di Rum Bianco,2.5 cl di Succo di lime,1.5 cl di Sciroppo di zucchero,8 Fragole",
+    "preparation":"Per prima cosa lavate lavate 8 fragole mature avendo cura di eliminare il picciolo (una fragola tenetela invece con il picciolo, vi servirà in seguito per decorare il vostro cocktail). Mixate 7 fragole nel frullatore e spremete bene il lime. Versate nello shaker la loro polpa ed unite anche lo sciroppo di zucchero liquido, il succo di lime, il rum bianco ed il ghiaccio. Agitate bene e versate nel bicchiere dopo aver filtrato, infine guarnite con la fragola che precedentemente avete tenuto da parte e servite immediatamente."
+  },
+  {
+    "name":"ENZONI",
+    "category":"After Dinner",
+    "code":"45",
+    "story":"Il cocktail Enzoni è un incrocio tra un Negroni e un Gin Sour dove l'uva bianca prende il posto del il Vermouth dolce. Questo cocktail è stato inventato da Vincenzo Errico a New York. Vincenzo è stato formato dal leggendario Dick Bradsell (creatore dell'Espresso Martini).",
+    "img":"https://www.digicocktails.com/images/cocktails/117.jpg",
+    "codes":[
+      27,
+      8,
+      58,
+      77,
+      110
+    ],
+    "ingredients": "Gin, Bitter Campari, Succo di limone, Sciroppo di zucchero, Uva",
+    "doses":"4.5 cl di Dry Gin,1.5 cl di Campari,1.5 cl di Sciroppo di Zucchero,1.5 cl di Succo Fresco di Limone,4 acini di Uva",
+    "preparation":"Come prima cosa mettete l'uva nello shaker, aggiungete gli altri ingredienti ed agitate con del ghiaccio. Versate nei bicchiere da cocktail (dove precedentemente avete messo del ghiaccio). Decorate infine i bicchieri con uno spiedino di uva."
+  },
+  {
+    "name":"ESPRESSO MARTINI",
+    "category":"After Dinner",
+    "code":"46",
+    "story":"Secondo l'ipotesi più accreditata, il cocktail è stato inventato da Dick Bradsell durante gli anni 1980, mentre lavorava al Freds Club di Londra. In un'intervista, Bradsell ha raccontato di aver preparato il cocktail per la prima volta per una cliente che gli aveva chiesto: «Puoi farmi qualcosa che mi faccia svegliare un po' e che poi mi fotta il cervello?»",
+    "img":"nofoto",
+    "codes":[
+      66,
+      12,
+      32,
+      77
+    ],
+    "ingredients": "Vodka, Caffe', Liquore al caffe Kahlúa, Sciroppo di zucchero",
+    "doses":"5 cl di vodka,1 cl di Kahlúa,Sciroppo di zucchero (secondo i gusti personali),1 caffè espresso",
+    "preparation":"Raffreddate la coppetta da cocktail e riempitela con i cubetti di ghiaccio. Shakerare gli ingredienti, dopodiché versare il cocktail nella coppetta, dopo aver rimosso il ghiaccio. Decorare con tre chicchi di caffè."
+  },
+  {
+    "name":"KAMIKAZE",
+    "category":"After Dinner",
+    "code":"47",
+    "story":"Alcuni dicono che questo cocktail venne inventato durante la seconda guerra mondiale in un bar nella base navale americana nella città costiera giapponese di Yokosuka, e gli venne dato il nome dei piloti suicidi che fecero molti attacchi nell'ultimo periodo della guerra, prima della resa del Giappone. Un'altra storia dice che questo cocktail venne inventato da un barman che lavorava a Boston a metà degli anni '70, al quale piaceva bere vodka e succo di lime.",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/6/61/Kamikaze.jpg",
+    "codes":[
+      66,
+      17,
+      62,
+      83,
+      71
+    ],
+    "ingredients": "Vodka, Cointreau o Triple sec, Succo di lime, Ghiaccio",
+    "doses":"3 cl di vodka,3 cl di cointreau o triple sec,3 cl di succo di Lime",
+    "preparation":"Versare gli ingredienti nello shaker, agitare e servire in una coppetta da cocktail. Nella versione On The Rocks versare gli ingredienti direttamente in un bicchiere old fashioned con ghiaccio e mescolare."
+  },
+  {
+    "name":"FRENCH CONNECTION",
+    "category":"After Dinner",
+    "code":"49",
+    "story":"French Connection è stato creato in occasione di una riunione nazionale dei barmen francesi e fa parte dei grandi classici, come stabilito da una commissione dell'I.B.A. nel 1987; commissione presieduta da Mr. Alan Ghandour - Francia - e della quale faceva parte anche l'italiano Luigi Parenti.",
+    "img":"https://www.digicocktails.com/images/cocktails/17.jpg",
+    "codes":[
+      16,
+      1
+    ],
+    "ingredients": "Cognac, Amaretto di Saronno",
+    "doses":"3.5 cl di cognac,3.5 cl di amaretto",
+    "preparation":"Miscelare direttamente sul ghiaccio in un Tumbler Basso (old fashioned)"
+  },
+  {
+    "name":"FUJI YAMA",
+    "category":"After Dinner",
+    "code":"50",
+    "story":"Questo cocktail ha origine incerta. Il gusto secco e un po' acidulo a base di vodka e il profumo d'agrumi rendono il Fuji Yama un piacevole \"After Dinner\", adatto per le serate estive in terrazza.",
+    "img":"https://www.digicocktails.com/images/cocktails/100.jpg",
+    "codes":[
+      58,
+      38,
+      66
+    ],
+    "ingredients": "Succo di limone, Maraschino, Vodka",
+    "doses":"2 cl di Succo di limone,2 cl di Maraschino,6 cl di Vodka",
+    "preparation":"Raffreddate lo shaker e scolate l'acqua in eccesso. Versate la vodka, il succo di limone e il maraschino. Shakerate bene e servite nelle coppette cocktail."
+  },
+  {
+    "name":"GARIBALDI",
+    "category":"Long Drink",
+    "code":"51",
+    "story":"Il Garibaldi è un cocktail tra i più semplici ma è altrettanto conosciuto quanto antico, a base di succo d'arancia e bitter. Può essere bevuto sia come aperitivo che come Long Drink. Il nome rende omaggio all'\"eroe dei due mondi\": Giuseppe Garibaldi, in quanto il rosso del Bitter ne ricorda la celebre giubba rossa e le arance lo sbarco in Sicilia.",
+    "img":"https://www.digicocktails.com/images/cocktails/18.jpg",
+    "codes":[
+      8,
+      57
+    ],
+    "ingredients": "Bitter Campari, Succo d'arancia",
+    "doses":"3 cl di Bitter Campari,7 cl di Succo d'arancia",
+    "preparation":"Preparare direttamente in un bicchiere (di tipo Highball/Tumbler Medio) pieno di ghiaccio fino all'orlo. Versare il Bitter Campari ed il succo d'arancia. Decorare con mezza fetta d'arancia."
+  },
+  {
+    "name":"GIBSON",
+    "category":"Pre Dinner",
+    "code":"52",
+    "story":"Molto probabilmente il cocktail Gibson fu ideato negli Anni Quaranta dall'artista americano Charles Dana Gibson al The Player's Club di New York. Visto che era sprovvisto di olive egli usò una cipollina in agrodolce.",
+    "img":"https://www.digicocktails.com/images/cocktails/19.jpg",
+    "codes":[
+      27,
+      63
+    ],
+    "ingredients": "Gin, Vermouth Dry",
+    "doses":"6 cl di gin,1 cl di Vermouth Dry",
+    "preparation":"Versate il gin e il Vermouth Dry nel mixing glass con ghiaccio, agitate e servitelo in una coppetta da cocktail ben fredda. La sua guarnizione è una cipollina in agro dolce."
+  },
+  {
+    "name":"GIN AND FRENCH",
+    "category":"Pre Dinner",
+    "code":"53",
+    "story":"Il Gin and french è un cocktail nato negli Stati Uniti negli anni '30. Originariamente era denominato Fifty-fifty per via dei componenti in parti uguali; con l'introduzione del vermut francese e variando le dosi, venne poi chiamato Gin and french. Faceva parte dei cocktail ufficiali IBA nella classificazione del 1987 e 1993.",
+    "img":"https://www.digicocktails.com/images/cocktails/56.jpg",
+    "codes":[
+      63,
+      27
+    ],
+    "ingredients": "Vermouth Dry, Gin",
+    "doses":"6 cl di gin,3.5 - 4 cl di vermut Dry",
+    "preparation":"Raffreddate il mixing-glass ed eliminate l'acqua in eccesso. Versatevi il dry vermouth francese e il gin. Miscelate e versate nelle coppette cocktail,che decorerete con una spirale di scorza di limone."
+  },
+  {
+    "name":"GIN AND IT",
+    "category":"Pre Dinner",
+    "code":"54",
+    "story":"Il Gin and It cocktail è la versione \"italiana\" del famoso 27 and French; è considerato una variante del Martinez ed è stato incluso nella lista IBA 1961.",
+    "img":"https://www.digicocktails.com/images/cocktails/57.jpg",
+    "codes":[
+      64,
+      27
+    ],
+    "ingredients": "Vermouth Rosso, Gin",
+    "doses":"3 cl di Vermouth Rosso,7 cl di Gin",
+    "preparation":"Il cocktail viene preparato versando gli ingredienti nel mixing glass precedentemente raffreddato assieme ad alcuni cubetti di ghiaccio, mescolando con lo stirrer. Il tutto viene versato nella coppetta da cocktail ghiacciata, che viene decorata con una ciliegina rossa."
+  },
+  {
+    "name":"GIN FIZZ",
+    "category":"Long Drink",
+    "code":"55",
+    "story":"Può essere considerato il drink più famoso degli anni '50, apprezzato in particolare dai giovani quando, subito dopo la guerra, si affascinavano nuovamente al divertimento: nelle feste in casa e nei locali da ballo che aprivano soprattutto la domenica pomeriggio",
+    "img":"https://www.digicocktails.com/images/cocktails/20.jpg",
+    "codes":[
+      27,
+      58,
+      77,
+      78
+    ],
+    "ingredients": "Gin, Succo di limone, Sciroppo di zucchero, Soda Water",
+    "doses":"4.5 cl di Gin,3 cl di Succo di limone,1 cl di Sciroppo di zucchero,8 cl di Soda Water",
+    "preparation":"Prendere un bicchiere di tipo highball e riempirlo di cubetti di ghiaccio. Prendere uno shaker e riempirlo a sua volta di cubetti di ghiaccio. Aggiungere in un bicchiere lo sciroppo semplice, il gin e il succo di limone fresco. Rimuovere l'acqua in eccesso dallo shaker, versarvi gli ingredienti e agitare. Rimuovere il ghiaccio dall'highball e versarvi la soluzione ottenuta. Per completare aggiungere la soda. Guarnire con scorza di limone da riporre all'interno dell'highball e con una rondella di limone sul bicchiere. Servire senza cannuccia."
+  },
+  {
+    "name":"GIN TONIC",
+    "category":"Long Drink",
+    "code":"56",
+    "story":"Il gin tonic ha avuto una consacrazione nel mondo dei Long Drink tra gli anni ottanta e novanta del XIX secolo. Bevanda conosciuta in un primo momento dagli studenti parigini per poi diffondersi nei locali della capitale francese.",
+    "img":"https://www.digicocktails.com/images/cocktails/21.jpg",
+    "codes":[
+      27,
+      61,
+      71
+    ],
+    "ingredients": "Gin, Acqua Tonica, Ghiaccio",
+    "doses":"4 cl di Gin,8 cl di Tonica",
+    "preparation":"La preparazione del gin tonic avviene nel medesimo bicchiere utilizzato per la consumazione, privilegiando un bicchiere tumbler, colmo di ghiaccio, in cui versare il gin e la Tonica. Decorare con mezza fetta di limone."
+  },
+  {
+    "name":"GIN LEMON",
+    "category":"Long Drink",
+    "code": "57",
+    "story":"",
+    "img":"https://www.digicocktails.com/images/cocktails/21.jpg",
+    "codes":
+    [27, 104, 3, 71],
+    "ingredients": "Gin, Lemon Schweppes o Lemonsoda, Angostura, Ghiaccio",
+    "doses":"60 cl di Gin,4 cl di Lemon Schweppes o Lemonsoda,4 gocce d'Angostura",
+    "preparation": "Preparare in un bicchiere Tumbler Medio con 3 o 4 cubetti ghiaccio in cui versare il gin e la Lemon (Schweppes Lemon o altrimenti Lemonsoda). Decorare con mezza fetta di limone."
+  },
+  {
+    "name":"GODFATHER",
+    "category":"After Dinner",
+    "code":"58",
+    "story":"Questo cocktail è una variante ufficiale del \"French Connection\" a cui si sostituisce il Whiskey al Cognac",
+    "img":"https://www.digicocktails.com/images/cocktails/22.jpg",
+    "codes":[
+      68,
+      1
+    ],
+    "ingredients": "Whisky, Amaretto di Saronno",
+    "doses":"3.5 cl di scotch whisky,3.5 cl di Liquore di amaretto",
+    "preparation":"Versare direttamente nel bicchiere tumbler basso riempito di ghiaccio lo scotch whisky e il liquore amaretto, mescolare con o stirrer o con cucchiaio da barman e servire senza decorazioni."
+  },
+  {
+    "name":"GODMOTHER",
+    "category":"After Dinner",
+    "code":"59",
+    "story":"Questo cocktail è una variante ufficiale del \"French Connection\" a cui si sostituisce la Vodka al Cognac",
+    "img":"https://www.digicocktails.com/images/cocktails/22.jpg",
+    "codes":[
+      66,
+      1
+    ],
+    "ingredients": "Vodka, Amaretto di Saronno",
+    "doses":"3.5 cl di vodka,3.5 cl di Amaretto",
+    "preparation":"Mescolare lentamente tutti gli ingredienti all'interno di un bicchiere Old fashioned pieno di ghiaccio."
+  },
+  {
+    "name":"GOLDEN CADILLAC",
+    "category":"After Dinner",
+    "code":"60",
+    "story":"Questa classica miscela di stile americano pare sia stata creata negli anni '50. Si dice che il Barman che l'inventò s'ispirasse al famoso film \"Una cadillac tutta d'oro\" di Richiard Quine con Judy Holliday e Paul Douglas.",
+    "img":"https://www.digicocktails.com/images/cocktails/25.jpg",
+    "codes":[
+      26,
+      94,
+      75,
+      76
+    ],
+    "ingredients": "Galliano, Crema di cacao bianca, Crema di latte o panna liquida",
+    "doses":"3 cl di Galliano,3 cl di Crema di cacao bianca,3 cl di Crema di latte o panna liquida",
+    "preparation":"Raffreddare la coppetta cocktail con 4-5 cubetti di ghiaccio. Porre tutti gli ingredienti in uno shaker con ghiaccio. Shakerare per circa 5 secondi, svuotare la coppetta e servire."
+  },
+  {
+    "name":"GOLDEN DREAM",
+    "category":"After Dinner",
+    "code":"61",
+    "story":"",
+    "img":"https://www.digicocktails.com/images/cocktails/25.jpg",
+    "codes":[
+      26,
+      17,
+      62,
+      57,
+      75,
+      76
+    ],
+    "ingredients": "Galliano, Cointreau o Triple Sec, Succo d'arancia, Crema di latte o panna liquida",
+    "doses":"2 cl di Liquore Galliano,2 cl di triple sec o Cointreau,2 cl di succo d' arancia,1 cl di Crema di latte o panna liquida",
+    "preparation":"Introdurre tutti gli ingredienti in uno shaker con ghiaccio. Shakerare energicamente per pochi secondi e servire in una coppetta da cocktail."
+  },
+  {
+    "name":"GREAT GATSBY",
+    "category":"After Dinner",
+    "code":"62",
+    "story":"Il cocktail Great Gatsby a base di vodka è una creazione di Matt Gilpin bartender del Highlands Bar and Grill, Birmingham, Regno Unito. È un cocktail leggero, luminoso e agrumato. Il succo di pompelmo leggermente amaro si abbina perfettamente alle note agrumate del Lillet Blanc.",
+    "img":"https://www.digicocktails.com/images/cocktails/118.jpg",
+    "codes":[
+      66,
+      34,
+      99
+    ],
+    "ingredients": "Vodka, Lillet blanc, Succo di melograno",
+    "doses":"3 cl di Vodka,3 cl di Lillet blanc,7 cl di Succo di melograno",
+    "preparation":"Mettete i 3 ingredienti nello shaker e agitate con del ghiaccio. Filtrare sopra dei cubetti di ghaccio. Decorate con mezza fetta di arancia."
+  },
+  {
+    "name":"HARVEY WALLBANGER",
+    "category":"Long Drink",
+    "code":"63",
+    "story":"L' Harvey wallbanger è un cocktail creato negli Stati Uniti negli anni '50. Il nome deriva dal coniglio gigante che nel film Harvey parlava a James Stewart quando sbatteva contro un muro, appunto wallbanger in inglese.",
+    "img":"https://www.digicocktails.com/images/cocktails/27.jpg",
+    "codes":[
+      66,
+      57,
+      26,
+      71
+    ],
+    "ingredients": "Vodka, Succo d'arancia, Galliano, Ghiaccio",
+    "doses":"4.5 cl di vodka,1.5 cl di liquore Galliano,9 cl di succo d'arancia",
+    "preparation":"Il cocktail si prepara direttamente in un bicchiere di tipo tumbler. Il tumbler va riempito con ghiaccio, vodka e succo d'arancia secondo le dosi; dopo aver mescolato gli ingredienti si aggiunge il Galliano in superficie. L'Harvey va poi decorato con una fetta d'arancia ed una ciliegina entrambe dentro il bicchiere."
+  },
+  {
+    "name":"BUCK'S FIZZ O MIMOSA",
+    "category":"Pre Dinner",
+    "code":"27",
+    "story":"Il Mimosa è una variante dei cocktail Bellini, Rossini e Tintoretto. Viene preparato con spremuta d'arancia e prosecco, ha un sapore fresco e rinfrescante. Il cocktail è composto da 1/3 di spremuta d'arancia e 2/3 di prosecco freddo. Il periodo ideale per gustarlo sono i mesi invernali, quando appunto maturano i frutti. È stato creato da Mr McGarry, barman al Buck's Club di Londra nel 1921.",
+    "img":"https://www.digicocktails.com/images/cocktails/10.jpg",
+    "codes":[
+      57,
+      44
+    ],
+    "ingredients": "Succo d'arancia, Prosecco",
+    "doses":"40% Succo d'arancia,60% Prosecco]",
+    "preparation":"Spremere un'arancia e filtrarne il succo attraverso un colino in un bicchiere da cocktail di tipo flute ben freddo. Aggiungere il prosecco. Servire direttamente nel bicchiere utilizzato per il succo d'arancia."
+  },
+  {
+    "name":"BUCK'S FIZZ O MIMOSA (Champagne)",
+    "category":"Pre Dinner",
+    "code":"28",
+    "story":"Il Mimosa è una variante dei cocktail Bellini, Rossini e Tintoretto. Viene preparato con spremuta d'arancia e prosecco, ha un sapore fresco e rinfrescante. Il cocktail è composto da 1/3 di spremuta d'arancia e 2/3 di prosecco freddo. Il periodo ideale per gustarlo sono i mesi invernali, quando appunto maturano i frutti. È stato creato da Mr McGarry, barman al Buck's Club di Londra nel 1921.",
+    "img":"https://www.digicocktails.com/images/cocktails/10.jpg",
+    "codes":[
+      57,
+      13
+    ],
+    "ingredients": "Succo d'arancia, Champagne",
+    "doses":"40% Succo d'arancia,60% Champagne",
+    "preparation":"Spremere un'arancia e filtrarne il succo attraverso un colino in un bicchiere da cocktail di tipo flute ben freddo. Aggiungere lo champagne. Servire direttamente nel bicchiere utilizzato per il succo d'arancia."
+  },
+  {
+    "name":"MARTINI DRY",
+    "category":"Pre Dinner",
+    "code":"77",
+    "story":"Le tesi riguardanti le origini di questo cocktail sono svariate e, in gran parte, vicine alla leggenda. La più autorevole, documentata da John Doxan in \"Stirred - Not Shaken\", afferma che un barista di nome Martini originario di Arma di Taggia in Liguria, emigrato negli Stati Uniti, avesse creato la miscela attorno al 1910 presso il Knickerbocker Hotel di New York in onore di John D. Rockefeller.",
+    "img":"https://www.digicocktails.com/images/cocktails/36.jpg",
+    "codes":[
+      27,
+      63
+    ],
+    "ingredients": "Gin, Vermouth Dry",
+    "doses":"6 cl di Gin,1 cl di Vermouth Dry",
+    "preparation":"Riempire una coppa Martini di ghiaccio per raffreddarla, riempire un mixing glass di ghiaccio e versare tutti gli ingredienti al suo interno, quindi mescolare bene. Scolare il ghiaccio dalla coppa Martini e versare il cocktail, filtrandolo dal ghiaccio con lo strainer. Guarnire con un'oliva oppure spremere una scorza di limone sulla superficie della coppa Martini ma non inserirla nel bicchiere."
+  },
+  {
+    "name":"MARTINI PERFECT",
+    "category":"Pre Dinner",
+    "code":"78",
+    "story":"Martini Perfect fa parte della categoria dei pre-dinner della lista dei cocktails codificati IBA (International Bartenders Association) ed è un drink molto richiesto nel mondo del bere.Della sua storia si conosce ben poco, cosi come del suo inventore.",
+    "img":"https://www.digicocktails.com/images/cocktails/59.jpg",
+    "codes":[
+      27,
+      63,
+      64
+    ],
+    "ingredients": "Gin, Vermouth Dry, Vermouth Rosso",
+    "doses":"6 cl di gin,1 cl di vermut dry,1 cl di vermut rosso",
+    "preparation":"Gli ingredienti vanno versati in un mixing glass con aggiunta di cubetti di ghiaccio; si mescola bene e si serve in una coppetta a cocktail raffreddata. La decorazione del cocktail è la ciliegina rossa."
+  },
+  {
+    "name":"MARTINI SWEET",
+    "category":"Pre Dinner",
+    "code":"79",
+    "story":"Lo Sweet Martini (tradotto letteralmente dall'inglese Martini Dolce) è un cocktail alcolico. Rappresenta una delle varianti del Martini dry. Sweet sta per dolce. Infatti dei quattro Martini “mondiali”, questo è sicuramente il più dolce, per via del vermouth rosso e della ciliegina.",
+    "img":"https://www.digicocktails.com/images/cocktails/58.jpg",
+    "codes":[
+      27,
+      64
+    ],
+    "ingredients": "Gin, Vermouth Rosso",
+    "doses":"5.5 cl di Gin,1.5 cl di Vermouth rosso",
+    "preparation":"si prepara nel mixing-glass e si serve nella coppetta a cocktail, aggiungendo una ciliegina al maraschino come guarnizione. Si può anche servire con ghiaccio, ma in questo caso va servito in un bicchiere old fashioned."
+  },
+  {
+    "name":"HORSE'S NEC",
+    "category":"Long Drink",
+    "code":"64",
+    "story":"",
+    "img":"https://www.digicocktails.com/images/cocktails/28.jpg",
+    "codes":[
+      10,
+      28,
+      3
+    ],
+    "ingredients": "Brandy, Ginger Ale, Angostura",
+    "doses":"4 cl Brandy,12 cl Ginger Ale,Gocce di Angostura bitter (facoltative)",
+    "preparation":"Si prepara direttamente nel bicchiere highball con cubetti di ghiaccio. Si mescola delicatamente e si guarnisce con una spirale di limone. Se richiesto, aggiungere alcune gocce di Angostura Bitter."
+  },
+  {
+    "name":"IRISH COFFEE",
+    "category":"After Dinner",
+    "code":"65",
+    "story":"Il Whiskey irlandese era la bevanda alcolica nazionale da più di un millennio e l'abitudine di mettere un po' nel tè si era diffusa intorno al XVI secolo diventando una tipica usanza del luogo. Quando al termine della seconda la guerra mondiale, ricominciarono voli transatlantici, gli aerei del tempo non potevano effettuare tutta la traversata dell'Atlantico senza uno scalo tecnico. Quella sosta avveniva normalmente a Shannon , cittadina a sud-ovest dell'Irlanda. Joe Sheridan , all'epoca capo barman dell'aeroporto, ebbe l'iniziativa di aggiornare la tradizionale bevanda irlandese - Whiskey nel tè appunto - creando una nuova versione più gradita agli americani, che costituivano la maggior parte dei viaggiatori, con la variante del caffè e dello zucchero, con il tocco finale della crema di latte.",
+    "img":"https://www.digicocktails.com/images/cocktails/29.jpg",
+    "codes":[
+      68,
+      12,
+      75,
+      76
+    ],
+    "ingredients": "Whisky, Caffe', Crema di latte o panna liquida",
+    "doses":"3 cl di Whisky,1 Caffe',Crema di latte o panna liquida",
+    "preparation":"L'Irish coffee, o caffè irlandese, è un caffè caldo, zuccherato, corretto con whisky e con uno strato di panna (crema di latte, ndr) sulla superficie. Viene servito pre-riscaldando il bicchiere, mettendoci il caffè corretto e zuccherato ed aggiungendovi per ultima la panna, leggermente montata. A volte, ma piuttosto raramente, al caffè vengono aggiunte spezie quali la noce moscata o la cannella."
+  },
+  {
+    "name":"JAMAICAN MOJITO",
+    "category":"Long Drink",
+    "code":"66",
+    "story":"Questo cocktail nasce a Cuba per mano del famoso barman Angelo Martinez. Questa versione del famoso Long Drink ha un gusto ancora più deciso, dato che nel Jamican mojito vengono mescolati due tipi di rum, il rum chiaro e il rum scuro, il tasso alcolico comunque rimane lo stesso di quello originale.",
+    "img":"https://www.digicocktails.com/images/cocktails/104.jpg",
+    "codes":[
+      47,
+      48,
+      78,
+      70,
+      84,
+      107,
+      100,
+      108
+    ],
+    "ingredients": "Rum Bianco , Rum Scuro, Soda Water, Lime, Zucchero di canna, Menta, Fragole, Ananas",
+    "doses":"1.5 cl di Rum Bianco,2.5 cl di Rum scuro,4 cl di Soda Water,Fragole 2-3,Ananas 1 fetta",
+    "preparation":"Il Jamaican mojito si prepara direttamente dentro i tumbler alti. Ponetevi i pezzi di lime, lo zucchero di canna e un ciffo di hierbabuena (o menta) e pestate il tutto. Aggiungete 2-3 fragole a pezzetti, ma non pestate, e l'ananas, anche questo a pezzettini. Aggiungete del ghiaccio e il rum chiaro. Mescolate il tutto. A questo punto aggiungete un top di rum scuro, in modo da formare un sottile strato scuro. Colmate con la soda. Infine decorate il cocktail con un ciuffo di menta. Se fatto bene questo cocktail presenterà i tipici colori della bandiera jamaicana. Servitelo con due cannucce."
+  },
+  {
+    "name":"JOHN COLLINS",
+    "category":"Long Drink",
+    "code":"67",
+    "story":"Al Limmer's Old House di Londra, intorno al 1890, in piena epoca vittoriana, i fratelli barman John e Tom Collins erano soliti servire una miscela di Gin, succo di limone, zucchero e soda in un tumbler alto. Quel raffinato drink oggi è un famoso Cocktail internazionale, e sui menu dei bar lo si può trovare anche come \"Tom Collins\".",
+    "img":"https://www.digicocktails.com/images/cocktails/30.jpg",
+    "codes":[
+      27,
+      58,
+      77,
+      78
+    ],
+    "ingredients": "Gin, Succo di limone, Sciroppo di zucchero, Soda Water",
+    "doses":"4.5 cl di gin,1.5 cl di sciroppo di zucchero,3 cl di succo di limone fresco,6 cl di Soda water",
+    "preparation":"Si prepara direttamente nel bicchiere Tumbler Medio con cubetti di ghiaccio e si guarnisce con ciliegina e una fetta di limone"
+  },
+  {
+    "name":"KING ALFONSO",
+    "category":"After Dinner",
+    "code":"68",
+    "story":"Un cocktail After Dinner, ideale dopo il caffè o come accompagnamento per dessert. King Alfonso si presenta in bianco e nero ed è molto particolare, i due ingredienti rimangono separati fino a quando non decidete di berlo.",
+    "img":"https://www.digicocktails.com/images/cocktails/101.jpg",
+    "codes":[
+      32,
+      75,
+      76
+    ],
+    "ingredients": "Liquore al caffe Kahlúa, Crema di latte o panna liquida",
+    "doses":"3 cl Liquore al caffe Kahlúa,2 cucchiai Crema di latte o panna liquida",
+    "preparation":"Ponete 2 o 3 cubetti di ghiaccio negli old fashioned. Versateci poi il liquore al caffè e fate scivolare la panna lentamente sul dorso del cucchiaio da bar, così che non si amalgami con il liquore ma formi uno strato separato da questo, in superficie."
+  },
+  {
+    "name":"KIR",
+    "category":"Pre Dinner",
+    "code":"69",
+    "story":"Il Kir è un cocktail di tipo aperitivo, a base di vino bianco, generalmente alcolico al 16%. È un cocktail certificato dall'Associazione internazionale Bartenders. Questo cocktail ha origini francesi e la leggenda narra che fu l'abate Kir di Digione a proporre questo cocktail agli ospiti. Naturalmente si usava del vino francese. La Crema di cassis (chiamata anche Cassis de Dijon o Crème de cassis de Dijon) è un liquore francese ottenuto dalla macerazione del ribes in alcol con l’aggiunta di sciroppo di zucchero.",
+    "img":"https://www.digicocktails.com/images/cocktails/31.jpg",
+    "codes":[
+      19,
+      65
+    ],
+    "ingredients": "Creme de Cassis, Vino bianco secco",
+    "doses":"1 cl di Creme de Cassis,9 cl di Vino bianco secco",
+    "preparation":"Si prepara direttamente nella flûte, versando prima la Crème de Cassis e colmando con vino ben freddo. In alternativa si può usare un bicchiere a calice per vino."
+  },
+  {
+    "name":"KIR ROYAL",
+    "category":"Pre Dinner",
+    "code":"70",
+    "story":"Il Kir è un cocktail di tipo aperitivo, a base di vino bianco, generalmente alcolico al 16%. È un cocktail certificato dall'Associazione internazionale Bartenders. Questo cocktail ha origini francesi e la leggenda narra che fu l'abate Kir di Digione a proporre questo cocktail agli ospiti. Naturalmente si usava del vino francese. La Crema di cassis (chiamata anche Cassis de Dijon o Crème de cassis de Dijon) è un liquore francese ottenuto dalla macerazione del ribes in alcol con l’aggiunta di sciroppo di zucchero.",
+    "img":"https://www.digicocktails.com/images/cocktails/31.jpg",
+    "codes":[
+      19,
+      13
+    ],
+    "ingredients": "Creme de Cassis, Champagne",
+    "doses":"1 cl di Creme de Cassis,9 cl di Champagne",
+    "preparation":"Preparare direttamente nel bicchiere flûte ghiacciato. Versare prima la creme de Cassis e poi lo champagne freddo."
+  },
+  {
+    "name":"LONG ISLAND ICE TEA",
+    "category":"Long Drink",
+    "code":"71",
+    "story":"Il Long Island Iced Tea è un cocktail a base di vodka, gin, rum bianco, triple sec (Cointreau). Deve il suo nome non alla presenza effettiva di té freddo, ma all'aspetto finale della preparazione, che lo fa somigliare alla bevanda analcolica. Il Long Island Iced Tea fu servito la prima volta nei tardi anni settanta da Robert (Rosebud) Butt, un barista dell'Oak Beach Inn, nella città di Babylon, LongIsland, New York.",
+    "img":"https://www.digicocktails.com/images/cocktails/47.jpg",
+    "codes":[
+      66,
+      27,
+      47,
+      17,
+      62,
+      60,
+      59,
+      18,
+      71
+    ],
+    "ingredients": "Vodka, Gin, Rum Bianco, Cointreau o Triple Sec, Tequila, Sweet e sour, Coca Cola, Ghiaccio",
+    "doses":"1.5 cl vodka,1.5 cl rum bianco,1.5 cl triple sec,1.5 cl gin,1.5 cl tequila,6 cl sweet e sour,top di cola (circa 3 cl) cola",
+    "preparation":"Riempire un bicchiere di tipo rock alto con cubetti di ghiaccio. Prendere uno shaker e versare al suo interno le componenti alcoliche e lo sweet e sour. Shakerare e versare nel bicchiere precedentemente riempito di ghiaccio. Aggiungere il top di coca cola. Infine, decorare con una fetta di limone e servire."
+  },
+  {
+    "name":"MALIBÙ AND COLA",
+    "category":"Pre Dinner",
+    "code":"73",
+    "story":"Il malibu cola o cola malibù è un cocktail molto semplice da preparare, molto richiesto da un pubblico giovane, che ama bere e stare in compagnia. Come suggerisce il nome è composto da Cola e Malibù.",
+    "img":"https://www.digicocktails.com/images/cocktails/103.jpg",
+    "codes":[
+      37,
+      18
+    ],
+    "ingredients":"Malibù, Coca Cola",
+    "doses":"3,5 cl di Malibù,7 cl di Cola",
+    "preparation":"Mettere nel bicchiere dei cubetti di ghiaccio e aggiungere in seguito il malibù. infine colmare il bicchiere con la Cola. Decorate con un fetta di lime."
+  },
+  {
+    "name":"MANHATTAN",
+    "category":"Pre Dinner",
+    "code":"74",
+    "story":"Il Manhattan è uno dei più famosi cocktail a base di whiskey; si serve come aperitivo. Si narra che l'inventore di questo aperitivo fosse un barman del Manhattan Club di New York (da cui il nome), che lo avrebbe preparato per la prima volta nel 1874.",
+    "img":"https://www.digicocktails.com/images/cocktails/33.jpg",
+    "codes":[
+      68,
+      64
+    ],
+    "ingredients": "Whisky, Vermouth Rosso",
+    "doses":"50 ml di Whiskey,20 ml di vermut rosso,1 dash di angostura",
+    "preparation":"Il Manhattan si prepara mescolando (senza agitare) gli ingredienti all'interno del mixing glass, raffreddato precedentemente riempiendo di ghiaccio il bicchiere per 2/3. L'angostura ha un sapore molto marcato e nell'ultima codifica IBA (2020) è consigliata una sola spruzzata (dash). Si serve in una coppetta da cocktail (da Martini) filtrando con lo strainer, guarnito con una ciliegina al maraschino."
+  },
+  {
+    "name":"MANHATTAN DRY",
+    "category":"Pre Dinner",
+    "code":"75",
+    "story":"E' una variante del famosissimo cocktail \"Manhattan\". Il Vermouth rosso è sostituito in questo caso dal Vermouth Dry e come decorazione una scorza di limone anzichè la ciliegina.",
+    "img":"https://www.digicocktails.com/images/cocktails/34.jpg",
+    "codes":[
+      68,
+      63,
+      3
+    ],
+    "ingredients": "Whisky, Vermouth Dry, Angostura",
+    "doses":"50 ml di Whiskey,20 ml di vermut dry,1 dash di angostura",
+    "preparation":"Miscelare nel mixing glass. Servire nella coppetta da cocktail e decorare con buccia di limone."
+  },
+  {
+    "name":"MARGARITA",
+    "category":"Pre Dinner",
+    "code":"76",
+    "story":"Il Margarita è il più comune cocktail a base di tequila. Nelle altre lingue: margarita è la parola latina per perla, mentre in spagnolo è la traduzione della parola margherita. Secondo quanto dice William Grimes, autore di Straight Up or On the Rocks: The Story of the American Cocktail, ci sono molte persone che affermano di aver bevuto Margarita già negli anni '30, quindi è facile affermare che il Margarita non fu inventato dopo il 1940.",
+    "img":"https://www.digicocktails.com/images/cocktails/35.jpg",
+    "codes":[
+      60,
+      17,
+      62,
+      58
+    ],
+    "ingredients": "Tequila, Cointreau o Triple Sec, Succo di limone",
+    "doses":"4.5 cl di Tequila,1.5 cl di Cointreau o Triple Sec,1 cl di Succo di limone",
+    "preparation":" Preparare nello shaker versando la Tequila, il Triple Sec (Cointreau) ed il succo di limone. Brinare il bordo della coppetta da cocktails con sale fino e strofinare delicatamente il fondo del bicchiere con una fetta di limone. Versare il drink nel bicchiere dallo shaker e decorare con la fetta di limone appena utilizzata."
+  },
+  {
+    "name":"MARY PICKFORD",
+    "category":"Pre Dinner",
+    "code":"80",
+    "story":"Il cocktail è un omaggio all'attrice Mary Pickford, venne creato al bar dell'hotel National di Cuba nel 1920.",
+    "img":"https://www.digicocktails.com/images/cocktails/102.jpg",
+    "codes":[
+      47,
+      38,
+      56,
+      29
+    ],
+    "ingredients":"Rum Bianco, Maraschino, Succo d'ananas, Granatina",
+    "doses":"6 cl rum bianco,1 cl maraschino,6 cl succo d'ananas,1 cl sciroppo di granatina",
+    "preparation":"Versare tutti gli ingredienti nello shaker, servire in una coppetta da cocktail precedentemente raffreddata."
+  },
+  {
+    "name":"MOJITO",
+    "category":"Long Drink",
+    "code": "82",
+    "story":"Il mojito è un Long Drink alcolico a base di rum. L'origine della bevanda è cubana e sarebbe stata ideata dal barman Angelo Martínez, un cubano che gestiva il famoso bar \"La Bodeguita del Medio\" a L'Avana, del quale si racconta che mescolava il cocktail fino a stancarsi. Il nome Mojito deriva dalla parola voodoo \"Mojo\" che significa \"Incantesimo\".",
+    "img":"https://www.digicocktails.com/images/cocktails/37.jpg",
+    "codes":
+    [83, 47 , 78, 107, 84, 111],
+    "ingredients": "Succo di lime, Rum Bianco, Soda Water, Menta, Zucchero di canna, Acqua frizzante",
+    "doses":"4.5 cl di rum bianco,2 cl di succo di lime,6 foglie di menta fresca,2 cucchiaini di zucchero di canna,Acqua minerale frizzante",
+    "preparation": "Mettere in un tumbler alto zucchero, succo di lime, rum e menta. Amalgamare il tutto premendo delicatamente le foglie di menta, poi unire ghiaccio a cubetti e l'acqua frizzante. Decorare con un rametto di menta. Servire con una cannuccia."
+  },
+  {
+    "name":"MONTE CARLO",
+    "category":"Pre Dinner",
+    "code":"83",
+    "story":"Monte Carlo è una variante di Manhattan ed è stato descritto per la prima volta in \"The Fine Art of Mixing Drinks\" di David Embury del 1948. È più dolce rispetto al Manhattan.",
+    "img":"https://www.digicocktails.com/images/cocktails/108.jpg",
+    "codes":[
+      68,
+      7,
+      3
+    ],
+    "ingredients": "Whisky, Benedictine, Angostura",
+    "doses":"6 cl di Whisky,1.5 cl di Benedictine,1 dash di Angostura",
+    "preparation":"Unite i 2 ingredienti principali nel mixing glass e aggiungete 3 gocce di Angostura. Mescolate per 20-30 secondi. Filtrate con ghiaccio in un bicchiere old fashioned. Decorate con una scorza di limone."
+  },
+  {
+    "name":"NEGRONI",
+    "category":"Pre Dinner",
+    "code":"86",
+    "story":"Il Negroni è un cocktail alcolico dal tipico colore arancione, ideato a Firenze nel 1919-20 dal conte Camillo Negroni. Di una cosa si è certi: che il Conte Negroni fosse un appassionato viaggiatore e poliglotta. Inoltre si sa che intorno agli anni’ 20 frequentasse il Caffè Casoni di Firenze e che stanco del solito aperitivo Americano abbia chiesto al barman Fosco Scarselli, dell’aristocratico Caffè, una spruzzatina di Gin in sostituzione del seltz al suo Americano in onore agli ultimi viaggi londinesi. E così nel caffè di Via de' Tornabuoni, ciò che per il conte era «il solito», divenne per gli altri clienti l'Americano alla maniera del conte Negroni ovvero un «Americano con un'aggiunta di gin», e prese il nome del conte che tanto lo amava. Oggi come allora il cocktail è considerato uno dei più famosi aperitivi italiani, ed in tutto il mondo viene ordinato semplicemente Negroni.",
+    "img":"https://www.digicocktails.com/images/cocktails/2.jpg",
+    "codes":[
+      8,
+      64,
+      27
+    ],
+    "ingredients": "Bitter Campari, Vermouth Rosso, Gin",
+    "doses":"3 cl di Bitter Campari,3 cl di Vermouth Rosso,3 cl di Gin]",
+    "preparation":"Versare tutti gli ingredienti dalla gradazione alcolica più alta alla più bassa direttamente nel bicchiere Old fashioned riempito di ghiaccio. Mescolare delicatamente. Decorare con metà fetta d'arancia."
+  },
+  {
+    "name":"ORGASM",
+    "category":"Long Drink",
+    "code":"88",
+    "story":"Orgasm è un cocktail alcolico riconosciuto ufficialmente dalla International Bartenders Association (\"IBA\") sotto la categoria Popular Cocktail.L’Orgasm è un cocktail molto popolare che i barman hanno interpretato nei modi più fantasiosi possibili a seconda del gusto personale. È un cocktail dal sapore forte e la consistenza cremosa che conferisce caratteristiche simili a quelle di uno shot: solitamente si beve tutto d'un fiato, ma può essere anche sorseggiato dopo cena gustandosi il sapore pieno della mistura.",
+    "img":"https://www.digicocktails.com/images/cocktails/70.jpg",
+    "codes":[
+      17,
+      62,
+      6,
+      30,
+      71
+    ],
+    "ingredients": "Cointreau o Triple Sec, Baileys, Grand Marnier, Ghiaccio",
+    "doses":"3 cl di Cointreau,3 cl di Baileys Irish Cream,2 cl di Grand Marnier",
+    "preparation":"Si versano gli ingredienti direttamente in un bicchiere tipo old fashioned (oppure in uno shot glass, uno di quei bicchieri che in Italia si usano per la grappa). Si guarnisce con una ciliegina al maraschino."
+  },
+  {
+    "name":"PARADISE",
+    "category":"After Dinner",
+    "code":"89",
+    "story":"La prima ricetta del Paradise risale al 1930 e fu pubblicata nel manuale di Harry Craddock. Anche se c’è chi sostiene che il Paradise sia nato in Inghilterra attorno agli anni 20 per mano di uno sconosciuto. Il Paradise è una miscela semplice dal gusto fruttato e fresco ideale nelle calde giornate estive, sia come aperitivo che come digestivo.",
+    "img":"https://www.digicocktails.com/images/cocktails/60.jpg",
+    "codes":[
+      57,
+      5,
+      27
+    ],
+    "ingredients": "Succo d'arancia, Apricot Brandy, Gin",
+    "doses":"3.5 cl di gin,2 cl di brandy all'albicocca (apricot brandy),1.5 cl di succo d'arancia",
+    "preparation":"Riempire una coppetta da cocktail con del ghiaccio per raffreddarla. Riempire di ghiaccio uno shaker, togliervi l'acqua in eccesso, poi aggiungervi 3,5 cl di gin, 2 cl di brandy all'albicocca e 1,5 cl di succo d'arancia fresco ed agitare bene. Filtrare il contenuto dello shaker nella coppetta da cocktail svuotata del ghiaccio. Servire senza cannuccia."
+  },
+  {
+    "name":"PINA COLADA",
+    "category":"Long Drink",
+    "code":"90",
+    "story":"Il Piña Colada è un cocktail molto dolce a base di rum chiaro, latte di cocco e succo d'ananas (o ananas a pezzetti), originale di Puerto Rico. Esistono diverse versioni circa l'origine di questa bevanda. Alcune testimonianze parlano di \"bevande a base di ananas e rum\", ma senza il latte di cocco, già dagli anni 20. È probabile che in buona parte dei Caraibi, già dagli anni 50, si fosse a conoscenza di questo tipo di bevanda, chiamata semplicemente \"ananas colata\", ma fu nel 1963 che essa venne ufficializzata col nome di Piña Colada e assunta come bevenda nazionale portoricana.",
+    "img":"https://www.digicocktails.com/images/cocktails/38.jpg",
+    "codes":[
+      47,
+      105,
+      56,
+      71
+    ],
+    "ingredients": "Rum Bianco, Latte di cocco, Succo d'ananas, Ghiaccio",
+    "doses":"6 cl di Rum bianco,9 cl di succo di ananas,3 cl di latte di cocco",
+    "preparation":"Si prepara nel blender con ghiaccio. Servire nel bicchiere \"goblet\". Decorare con trancio d'ananas e ciliegina rossa."
+  },
+  {
+    "name":"PLANTER'S PUNCH",
+    "category":"Long Drink",
+    "code":"91",
+    "story":"Il Planter's Punch fu inventato in Giamaica nel 1879, in occasione dell'apertura delle distillerie di Rum Myers.",
+    "img":"https://www.digicocktails.com/images/cocktails/65.jpg",
+    "codes":[
+      48,
+      29,
+      58,
+      57,
+      56,
+      77,
+      3,
+      71
+    ],
+    "ingredients": "Rum Scuro, Granatina, Succo di limone, Succo d'arancia, Succo d'ananas, sciroppo di zucchero, Angostura, Ghiaccio",
+    "doses":"4 cl di rum scuro,3.5 cl di succo d'arancia,3.5 cl di succo d'ananas,2 cl di succo di limone,1 cl di sciroppo di granatina,1 cl di sciroppo di zucchero,3-4 gocce di bitter Angostura",
+    "preparation":"Versare gli ingredienti in un tumbler basso con ghiaccio, decorare con una scorza d'arancia."
+  },
+  {
+    "name":"PORTO FLIP",
+    "category":"After Dinner",
+    "code":"92",
+    "story":"Il Porto Flip fa parte dalla famiglia dei cocktail flip, quei drink preparati con il tuorlo d’uovo. Fa parte dalla famiglia dei cocktail flip, quei drink preparati con il tuorlo d’uovo.Le prime notizie del Porto Flip risalgono a dopo la metà del 1800, ma non ci sono autori o bartender che ne abbiamo rivendicato la paternità, potremmo dire che è un cocktail che sulla scia di una tradizione culinaria antica si che solo successivamente si è trasformato in un cocktail più raffino.",
+    "img":"https://www.digicocktails.com/images/cocktails/66.jpg",
+    "codes":[
+      10,
+      43,
+      80
+    ],
+    "ingredients": "Brandy, Porto, Uovo",
+    "doses":"1.5 cl di brandy,4.5 cl di vino Porto,1 cl di tuorlo d'uovo",
+    "preparation":"Si prepara mettendo nello shaker tutti gli ingredienti con aggiunta di ghiaccio. Va servito nella coppetta da cocktail."
+  },
+  {
+    "name":"ROB ROY",
+    "category":"Pre Dinner",
+    "code":"93",
+    "story":"Creato in New York City nel 1890 legando il suo nome al famoso e storico personaggio Scozzese Robert Roy Mac Gregor e allo scrittore, romanziere e poeta Scozzese Walter Scott. Piuttosto similare al Manhattan, conserva le sue radici scozzesi nell’utilizzo dello Scotch whisky invece del Canadian, può essere sweet, dry o perfect.",
+    "img":"https://www.digicocktails.com/images/cocktails/67.jpg",
+    "codes":[
+      64,
+      68,
+      3
+    ],
+    "ingredients": "Vermouth Rosso, Whisky, Angostura",
+    "doses":"4.5 cl di Whisky,2.5 cl di Vermouth rosso,1-2 gocce di angostura bitter",
+    "preparation":"Versare tutti gli ingredienti principali nel mixing glass con ghiaccio, aggiungere 2 gocce di angostura per ciascun cocktail. Mescolare bene e filtrare in coppetta ben fredda. Decorare infine con ciliegina al maraschino."
+  },
+  {
+    "name":"ROSE",
+    "category":"Pre Dinner",
+    "code":"94",
+    "story":"La forma leggendaria del cocktail Rose racconta che questo cocktail sia nato intorno al 1445 durante la “Guerra delle due rose” combattuta tra i Lancaster il quale emblema era una rosa rossa, e la casa dei York simboleggiata da una rosa bianca.Il cocktail Rose da anni è un cocktail codificato IBA, la sua miscela composta da Kirsch, Vermouth Dry e sciroppo di fragole, lo rende un aperitivo leggero e delicato, come delicato è il colore che indossa, un rosa tenue dovuto dal liquore Kirsch e dal cherry brandy.",
+    "img":"https://www.digicocktails.com/images/cocktails/68.jpg",
+    "codes":[
+      33,
+      63,
+      53
+    ],
+    "ingredients": "Kirsch, Vermouth Dry, Sciroppo di fragola",
+    "doses":"6 cl di vermouth dry,1.5 cl di Kirsch,Gocce di sciroppo di fragola",
+    "preparation":"Shakerare con ghiaccio e servire in una coppetta da cocktail. Si guarnisce con una ciliegia al maraschino."
+  },
+  {
+    "name":"ROSSINI",
+    "category":"Pre Dinner",
+    "code":"95",
+    "story":"Il Rossini è una variante dei cocktail Bellini, Tintoretto e Mimosa, messa a punto verso la metà del XX secolo. Viene preparato con purea fresca di fragola e prosecco, che adesso viene sostituto da Champagne. Si serve in flûte e ha un sapore fresco e rinfrescante. Il nome rende omaggio al compositore Gioacchino Rossini.",
+    "img":"https://www.digicocktails.com/images/cocktails/40.jpg",
+    "codes":[
+      100,
+      44,
+      13
+    ],
+    "ingredients": "Fragola frullata,Prosecco o Champagne",
+    "doses":"5 cl di Fragola frullata,10 cl di prosecco",
+    "preparation":"Frullare le fragole dopo averle lavate ed asciugate. Filtrarle con un colino qualora i semi diano fastidio. Conservare in frigorifero fino al momento di servire. Versare il frullato in una coppetta flute ed aggiungere il prosecco (o Champagne) ben freddo. Decorare con una fragola."
+  },
+  {
+    "name":"RUSTY NAIL",
+    "category":"After Dinner",
+    "code":"96",
+    "story":"La ricetta del Rusty Nail è molto semplice, cristallina: whisky scozzese addolcito dal Drambuie, un liquore a base di whisky aromatizzato con erbe delle Highlands e miele d’erica. Tutti sapori che ricordano le colline scozzesi battute dal vento, dove il sapore del mare si fonde con quello della torba.",
+    "img":"https://www.digicocktails.com/images/cocktails/69.jpg",
+    "codes":[
+      22,
+      68,
+      71
+    ],
+    "ingredients": "Drambuie, Whisky, Ghiaccio",
+    "doses":"4.5 cl di whisky,2.5 cl di Drambuie (liquore al miele)",
+    "preparation":"Porre gli ingredienti direttamente in un bicchiere di tipo Old fashioned con ghiaccio ed aggiungere una scorza di limone arrotolata (lemon twist in inglese)."
+  },
+  {
+    "name":"SCREWDRIVER",
+    "category":"Pre Dinner",
+    "code":"97",
+    "story":"Secondo un articolo del Time, lo Screwdriver è nato agli inizi degli anni '50 in un bar del Park Hotel di New York. Lì agenti segreti turchi rifugiati dai balcani e ingegneri americani erano soliti miscelare la vodka con succo d'arancia in lattina. Per mescolare i due ingredienti, non avendo strumenti più adatti, utilizzavano un cacciavite, da qui il nome del cocktail. Da esso deriva un altro drink ufficiale IBA e cioè il noto Harvey Wallbanger.",
+    "img":"https://www.digicocktails.com/images/cocktails/71.jpg",
+    "codes":[
+      66,
+      57
+    ],
+    "ingredients": "Vodka, Succo d'arancia",
+    "doses":"5 cl di vodka,10 cl di succo d'arancia",
+    "preparation":"Mescolare la vodka e il succo d'arancia direttamente nel bicchiere e servire con una fetta d'arancia."
+  },
+  {
+    "name":"SIDECAR",
+    "category":"After Dinner",
+    "code":"98",
+    "story":"L'invenzione del Sidecar si deve a Harry Mc Halone; il barman dell'Harry's Bar di Parigi che creò questo cocktail dedicandolo ad un capitano che era entrato nel bar con il suo sidecar.",
+    "img":"https://www.digicocktails.com/images/cocktails/85.jpg",
+    "codes":[
+      58,
+      17,
+      62,
+      16
+    ],
+    "ingredients": "Succo di limone, Cointreau o Triple Sec, Cognac",
+    "doses":"5 cl di cognac (o brandy),2 cl di Triple sec (o Cointreau),2 cl di succo di limone fresco",
+    "preparation":"Raffreddate lo shaker,poi scolate l'acqua in eccesso. Versatevi il cognac, il cointreau e il succo di limone. Shakerate per alcuni secondi e versate nelle doppie coppette. Se lo preferite può essere servito anche \"on the rocks\" con il ghiaccio rimasto nello shaker. In questo caso si usa l'old fashioned."
+  },
+  {
+    "name":"SINGAPORE SLING",
+    "category":"Pre Dinner",
+    "code":"99",
+    "story":"A inventare il Singapore Sling fu Ngiam Tong Boom. Correva l'anno 1915.",
+    "img":"https://www.digicocktails.com/images/cocktails/86.jpg",
+    "codes":[
+      27,
+      31,
+      62,
+      7,
+      29,
+      56,
+      83,
+      3
+    ],
+    "ingredients": "Gin, Heering Cherry Liqueur, Triple sec, Benedictine, Granatina, Succo d'ananas, Succo di lime fresco, Angostura",
+    "doses":"3 cl di gin,1.5 cl di Heering Cherry Liqueur,0.75 cl di triple sec,0.75 cl di DOM Benedictine,1 cl di granatina,12 cl di succo d'ananas,1.5 cl di succo di lime fresco,1 spruzzo di angostura",
+    "preparation":"Nel bicchiere di preparazione aggiungere 3 cl di gin, 1,5 cl di Heering Cherry Liqueur, 0,75 cl di triple sec, 0,75 cl di benedictine, 1 cl di granatina, 1,5 cl di succo di lime, 12 cl di succo d'ananas, uno spruzzo di angostura. Versare il tutto in uno shaker pieno di ghiaccio ed agitare. Filtrare in un bicchiere highball precedentemente riempito di ghiaccio. Guarnire con una fettina d'ananas e con una ciliegia al maraschino."
+  },
+  {
+    "name":"SPRITZ VENEZIANO",
+    "category":"Pre Dinner",
+    "code":"100",
+    "story":"Questo cocktail nasce presumibilmente tra gli anni ’20 e ’30 del ‘900 tra Padova e Venezia, quando si pensò di unire l’Aperol (presentato alla Fiera di Padova nel 1919) o il Select (prodotto dai fratelli veneziani Pilla) all’usanza, portata nell’Italia settentrionale dai soldati austroungarici, di diluire il vino (soprattutto bianco, ma anche rosso) con il selz o con l’acqua minerale gassata[8]. Di tale usanza austriaca, conservatasi pressoché inalterata a Trieste, asburgica fino al 1918, rimane eco presso la popolazione anziana di molte località del Nord-est italiano e, con il nome di “vino spruzzato”, anche a Milano.",
+    "img":"https://www.digicocktails.com/images/cocktails/53.jpg",
+    "codes":[
+      44,
+      4,
+      78
+    ],
+    "ingredients": "Prosecco, Aperol, Soda Water",
+    "doses":"9 cl di Prosecco,6 cl di Aperol,q.b. di Soda/seltz.",
+    "preparation":"Per preparare lo spritz si versa in un bicchiere old-fashioned contenente del ghiaccio, in ordine: aperol, prosecco e infine soda, guarnendo quindi con mezza fetta d'arancia.[1] Dal 2015, nel retroetichetta della bottiglia dell'Aperol, viene indicato il bicchiere da vino con stelo ideale per la preparazione dell'Aperol Spritz."
+  },
+  {
+    "name":"STRAWBERRY CONTESSA",
+    "category":"Pre Dinner",
+    "code":"102",
+    "story":"Il cocktail Strawberry Contessa è una scelta meravigliosa se avete a disposizione uno sciroppo di fragole fatto in casa. Ha un sapore rinfrescante, fruttato e leggermente aspro. Assicuratevi che il vino bianco sia fresco e precedentemente conservato in frigorifero.",
+    "img":"https://www.digicocktails.com/images/cocktails/116.jpg",
+    "codes":[
+      27,
+      65,
+      53,
+      78
+    ],
+    "ingredients": "Gin, Vino bianco secco, Sciroppo di fragola, Soda Water",
+    "doses":"3 cl di Gin,3 cl di Vino bianco secco,3 cl di Sciroppo di fragola,6 cl di Soda Water",
+    "preparation":"Per prima cosa mettete nello shaker tutti gli ingredienti (tranne la soda water), agitate con un po' di ghiaccio e successivamente aggiungete la soda water. Infine decorate con un rametto di menta e una fragola."
+  },
+  {
+    "name":"TEQUILA SUNRISE",
+    "code":"103",
+    "category":"Long Drink",
+    "story":"Il primo \"Tequila Sunrise\" nasce alla fine degli anni '30. Fu ideato da Gene Sulit, barman dell'Arizona Biltmore Hotel di Phoenix, per un cliente che era di ritorno da un viaggio dove fu colpito dall'alba sul deserto; arrivato al bar chiese una bevanda dissetante a base di tequila. Gene Sulit creò il cocktail definendolo appunto \"Tequila Sunrise\".",
+    "img":"https://www.digicocktails.com/images/cocktails/87.jpg",
+    "codes":[
+      60,
+      29,
+      57
+    ],
+    "ingredients": "Tequila, Sciroppo di granatina, Succo d'arancia",
+    "doses":"4.5 cl di tequila,9 cl di succo d'arancia,1.5 cl di granatina",
+    "preparation":"Versare la tequila ed il succo d'arancia in un bicchiere hurricane riempito di ghiaccio in cubetti. Mescolare con uno stirrer, quindi incorporare delicatamente lo sciroppo di granatina secondo il metodo build, in modo che la granatina vada a depositarsi sul fondo donando al drink l'effetto sunrise (alba). Guarnire con una fetta d'arancia e una ciliegina candita."
+  },
+  {
+    "name":"TEXAS ICED TEA",
+    "category":"Long Drink",
+    "code":"104",
+    "story":"",
+    "img":"https://www.digicocktails.com/images/cocktails/63.jpg",
+    "codes":[
+      47,
+      27,
+      66,
+      60,
+      59,
+      18
+    ],
+    "ingredients": "Rum Bianco, Gin, Vodka, Tequila, Sweet and sour, Cola",
+    "doses":"1.5 cl di Rum Bianco,1.5 cl di Gin,1.5 cl di Vodka,1.5 cl di Tequila,6 cl di sweet and sour,top di coca cola (circa 3 cl)",
+    "preparation":"Mettete nei tumbler medi una quantità abbondante di ghiaccio.Successivamente miscelate con lo stirrer rum,gin,vodka, tequila e succo di limone zuccherato. Colmate ciascun bicchiere con Cola e mescolate nuovamente. Decorate infine i tumbler con una fettina di lime e servite con stirrer e cannucce."
+  },
+  {
+    "name":"JAPANESE ICED TEA",
+    "category":"Long Drink",
+    "code":"105",
+    "story":"Il Japanese Iced Tea è una semplice variazione del Long Island Tea. In questo cocktail si sostituisce il Midori (liquore al melone) al triple sec. Otteniamo così un cocktail verde, intenso e potente il cui nome molto probabilmente deriva dal verde brillante Stato da dove ha origine il Midori.",
+    "img":"https://www.digicocktails.com/images/cocktails/109.jpg",
+    "codes":[
+      66,
+      27,
+      47,
+      60,
+      59,
+      40,
+      78
+    ],
+    "ingredients": "Vodka, Gin, Rum Bianco, Tequila, Sweet and sour, Midori, Soda water",
+    "doses":"1.5 cl vodka,1.5 cl gin,1.5 cl rum bianco,1.5 cl tequila,1.5 cl Midori,6 cl sweet e sour,top di coca cola (circa 3 cl)",
+    "preparation":"Unite tutti gli ingredienti nello shaker (tranne la soda) ed agitate con ghiaccio, versare su ghiaccio fresco in un tumbler medio. Aggiungete della soda qb. Decorare infine con una fetta di lime o limone."
+  },
+  {
+    "name":"VODKATINI",
+    "category":"Pre Dinner",
+    "code":"106",
+    "story":"Il Vodka Martini, chiamato anche Vodkatini, è un cocktail dal sapore preciso, elegante, netto. L’aperitivo perfetto. Un cocktail per antonomasia, amato dai grandi scrittori dei primi del 900 come Fitzgerald e Hemingway, reso in seguito famoso da James Bond, che voleva il Vodka Martini “shaken, not stirred” (agitato, non mescolato). Insomma è un cocktail che ha stregato il mondo fin dal primo momento in cui è stato miscelato.",
+    "img":"https://www.digicocktails.com/images/cocktails/88.jpg",
+    "codes":[
+      63,
+      66
+    ],
+    "ingredients": "Vermouth Dry, Vodka",
+    "doses":"5.5 cl Vodka,1.5 cl Vermut Dry",
+    "preparation":"Raffreddate il mixing glass, poi scolate l'acqua in eccesso. Versateci il vermouth e la vodka e miscelate velocemente. Infine servite nelle coppette cocktail, filtrando con lo strainer e guarnite ciascuna con una scorza di limone."
+  },
+  {
+    "name":"WHISKY SOUR",
+    "category":"Pre Dinner",
+    "code":"107",
+    "story":"Il Whiskey Sour è un famoso drink a base di Bourbon whiskey. È un cocktail ufficiale dell'International Bartenders Association.",
+    "img":"https://www.digicocktails.com/images/cocktails/43.jpg",
+    "codes":[
+      68,
+      58,
+      77,
+      71
+    ],
+    "ingredients": "Whisky, Succo di limone, Sciroppo di zucchero, Ghiaccio",
+    "doses":"4.5 cl di Bourbon Whiskey,3 cl di succo di limone,1.5 cl di sciroppo zucchero",
+    "preparation":"Spremere 3cl (1 oz) di succo di limone poi aggiungere 1.5 cl (0,5 oz) di sciroppo di zucchero. Aggiungere 4,5 cl (1,5 oz) di Bourbon Whiskey. Poi procedere con l'aggiunta di un albume d'uovo (opzionale). Mettere la soluzione in uno shaker ed agitare in modo deciso. Riempire lo shaker con del ghiaccio e poi agitare di nuovo il tutto. Versare la soluzione dello shaker in un bicchiere di tipo old fashioned o cobbler precedentemente riempito fino all'orlo con cubetti di ghiaccio. Guarnire con mezza fettina d'arancia sul bicchiere e una ciliegia al maraschino. servire con cannuccia"
+  },
+  {
+    "name":"WHITE LADY",
+    "category":"After Dinner",
+    "code":"108",
+    "story":"Molti paesi ne rivendicano la paternità. La Francia vuole che sia stato creato in onore all'opera \"La Dame invisible\" di François-Adrien Boieldieu; Stati Uniti secondo i quali fu dedicato a Ella Fitzgerald che con abito bianco cantava \"sofisticated lady\".",
+    "img":"https://www.digicocktails.com/images/cocktails/41.jpg",
+    "codes":[
+      27,
+      17,
+      62,
+      58
+    ],
+    "ingredients": "Gin, Cointreau o Triple Sec, Succo di limone",
+    "doses":"4 cl di gin,3 cl di triple sec,2 cl di succo di limone fresco",
+    "preparation":"Prendere una coppetta da cocktail e riempirla di ghiaccio per raffreddarla. In uno shaker riempito di ghiaccio versare 4 cl di gin, 3 cl di triple sec e 2 cl di succo di limone fresco. Agitare bene e poi filtrare nella coppetta da cocktail svuotata del ghiaccio. Servire senza cannuccia. Nel ricettario IBA del 1990 la ricetta prevedeva 5/10 di gin, 3/10 cointreau e 2/10 di succo di limone fresco."
+  },
+  {
+    "name":"WHITE RUSSIAN",
+    "category":"Pre Dinner",
+    "code":"109",
+    "story":"Il White Russian è un cocktail a base di vodka variante del Black Russian. Nonostante la gradazione alcolica non trascurabile (intorno ai 20 gradi in genere), presenta un gusto molto delicato e dolce, tanto da poter essere servito come \"dessert\". Nasce dalle mani di Gustave Tops, barman dell'hotel Metropole di Bruxelles alla fine degli anni '40 come cocktail per l'ambasciatore americano in Lussemburgo Pearl Mesta[1]. È il drink preferito del protagonista del film Il grande Lebowski, che lo prepara mescolando crema di latte, liquore al caffè e vodka ben freddi e con una mescolatura blanda.",
+    "img":"https://www.digicocktails.com/images/cocktails/42.jpg",
+    "codes":[
+      66,
+      32,
+      75,
+      76,
+      71
+    ],
+    "ingredients": "Vodka, Liquore al caffe Kahlúa, Crema di latte o panna liquida, Ghiaccio",
+    "doses":"5 cl di vodka,2 cl di liquore al caffè Kahlua,Crema di latte o panna liquida",
+    "preparation":"È preferibile usare la Kahlua o in mancanza di essa il Borghetti (suo corrispettivo italiano) che tuttavia è meno indicato in quanto più amaro. Si versa vodka e liquore nello shaker e si agita bene per 10 secondi, dopodiché si versa senza aspettare nel bicchiere (tipo Old Fashioned) con del ghiaccio. Successivamente si versa la panna liquida dal dorso di un cucchiaio direttamente sul bicchiere. Non va aggiunta nessuna decorazione."
+  },
+  {
+    "name":"ZULIA GARDEN",
+    "category":"Long Drink",
+    "code":"110",
+    "story":"Lo Zulia Garden è stato il cocktail di punta dello Zulia Garden Club a Maracaibo, in Venezuela. È allo stesso tempo dolce, forte, tagliente e morbido.",
+    "img":"nofoto",
+    "codes":[
+      47,
+      63,
+      15,
+      80,
+      29,
+      77,
+      83
+    ],
+    "ingredients": "Rum Bianco, Vermouth Dry, Cherry Brandy, Uovo, Granatina, Sciroppo di zucchero, Succo di lime",
+    "doses":"6 cl di Rum Bianco,3 cl di Vermouth Dry,1.5 cl di Cherry Brandy,1/2 Albume d'uovo,0.25 cl di granatina,0.10 cl di sciroppo di zucchero,0.5 cl di succo di lime",
+    "preparation":"Shakerate il rum chiaro, il vermouth dry, il cherry brandy insieme a mezzo albume di uovo, 0,25 cl di granatina, 0,10 cl di sciroppo di zucchero e 0,5 cl di succo di lime. Dopo aver shakerato tutti gli ingredienti senza ghiaccio per emulsionare l'albume. Shakerate nuovamente aggiungendo del ghiaccio. Filtrate due volte il cocktail e versatelo in un bicchiere da cocktail. Decorate con una ciliegia sciroppata."
+  },
+  {
+    "name":"MAI TAI",
+    "category":"Long Drink",
+    "code":"111",
+    "story":"Ne viene attribuita l'invenzione al Trader Vic's restaurant di Oakland, California, nel 1944. Anche il locale rivale Don the Beachcomber ne rivendica l'invenzione facendola risalire al 1933, benché le ricette dei due locali siano differenti",
+    "img":"NOFOTO",
+    "codes":[
+      47,
+      48,
+      20,
+      106,
+      83
+    ],
+    "ingredients": "Rum bianco, Rum Scuro, Orange Curaçao, Sciroppo di orzata, Succo di lime fresco",
+    "doses":"4 cl (8 parti) di Rum bianco,2 cl di Rum scuro,1.5 cl di Orange curaçao,1.5 cl di Sciroppo di orzata,1 cl di Succo di lime fresco",
+    "preparation":"Tutti gli ingredienti tranne il rum scuro vengono agitati nello shaker con il ghiaccio. Si versa nel bicchiere, vi si aggiunge il rum scuro facendolo stratificare in superficie. Viene servito on the rocks, cioè con cubetti di ghiaccio, in un bicchiere Highball. Guarnizione ombrellino in carta"
+  },
+  {
+    "name":"SEA BREEZE",
+    "category":"Long Drink",
+    "code":"112",
+    "story":"Trattasi di un cocktail tipicamente estivo (la brezza del mare), anche grazie alla disponibilità degli ingredienti stagionali. Vodka e succo di frutta rappresenta un mix vincente presente in numerosi drink (come lo Screwdriver). Esiste anche una variante hawaiana, il Bay breeze, con il succo di ananas al posto del succo di pompelmo.",
+    "img":"A",
+    "codes":[
+      66,
+      97,
+      86
+    ],
+    "ingredients": "Vodka, Succo di mirtilli rosso, Succo di pompelmo",
+    "doses":"4 cl di vodka,12 cl di succo di mirtilli rosso,3 cl di succo di pompelmo",
+    "preparation":"Si versano gli ingredienti in un bicchiere tipo highball, riempito con ghiaccio. Si guarnisce, infine, con una fettina di lime e si serve con due cannucce."
+  },
+  {
+    "name":"SEX ON THE BEACH",
+    "category":"Long Drink",
+    "code":"113",
+    "story":"La storia del Sex on the Beach è, come quella di molti cocktail, piuttosto nebulosa da definire. Fra gli anni settanta e gli anni ottanta che cominciarono ad essere creati i primi cocktail fruttati, basati principalmente sul Cape Codder e il Tequila Sunrise, ma non venne creato nessun cocktail contenente la parola sex, poiché ritenuto sconveniente nei locali statunitensi. Una delle ricette che ebbe più successo fu la formula descritta dalla nota guida \"Mr. Boston's\", chiamata anche Peach on the Beach. Ted Pizio, allora barman al Confettis, mescolò il liquore di pesca con vodka, succo d'arancia e di cranberry, ottenendo grande successo fra gli avventori. Quando Ted chiedeva la ragione per cui molti giovani venivano in Florida per lo spring break, le risposte erano beach (spiaggia) e sex (sesso): decise di chiamare il cocktail dunque Sex on the Beach.",
+    "img":"nofoto",
+    "codes":[
+      66,
+      96,
+      57,
+      95
+    ],
+    "ingredients": "Vodka, Liquore alla Pesca, Succo d'arancia, Succo di cranberry",
+    "doses":"4 cl di vodka,2 cl di peach schnapps (liquore di pesche),4 cl di succo d'arancia,4 cl di succo di cranberry",
+    "preparation":"Shakerare la vodka, il peach schnapps e il succo di arancia in uno shaker freddo, quindi versare il contenuto in un tumbler alto precedentemente riempito di ghiaccio. Versare senza mescolare il succo di cranberry in modo che il rosso del succo, che per densità tende a scendere, screzi il cocktail. Guarnire con una cannuccia, ed eventualmente con arancia, e servire."
+  },
+  {
+    "name":"BARRACUDA",
+    "category":"Pre Dinner",
+    "code":"115",
+    "story":"Il cocktail è stato ideato alla fine degli anni 1960 dal genovese Benito Cuppari, all'epoca capo bartender della nave Michelangelo, in occasione di una competizione vinta a St. Vincent, negli Stati Uniti.",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Barracuda_Sparkling_Cocktail.png/305px-Barracuda_Sparkling_Cocktail.png",
+    "codes":[
+      46,
+      26,
+      56,
+      83,
+      44
+    ],
+    "ingredients": "Rum ambrato, Galliano, succo d'ananas, succo di lime fresco, Prosecco",
+    "doses":"4.5 cl di rum ambrato,1.5 cl di Galliano,6 cl di succo d'ananas,Gocce di succo di lime fresco,Top di Prosecco",
+    "preparation":"Raffreddare la coppa Margarita con del ghiaccio, nel frattempo riempire di ghiaccio lo shaker e versare al suo interno il rum, il Galliano, il succo d'ananas e il succo di lime. Shakerare il tutto, quindi versare nel bicchiere dopo aver tolto il ghiaccio. Colmare con il Prosecco."
+  },
+  {
+    "name":"SCOTCH HOLIDAY",
+    "category":"Long Drink",
+    "code":"116",
+    "story":"Lo Scotch holiday è un cocktail di origine statunitense.",
+    "img":"nofoto",
+    "codes":[
+      54,
+      15,
+      64,
+      58,
+      71
+    ],
+    "ingredients": "Scotch whisky, Cherry brandy, Vermouth rosso, Succo di limone, Ghiaccio",
+    "doses":"3 cl di Scotch whisky,1 cl di cherry brandy,1 cl di Vermouth rosso,1 cl di Succo di limone",
+    "preparation":"Viene preparato nello shaker agitando tutti gli ingredienti con del ghiaccio. La miscela va servita in un bicchiere Old fashioned colmo di ghiaccio in cubetti e con una fetta di limone."
+  },
+  {
+    "name":"PUNT E MES RENDEZ-VOUS",
+    "category":"Long Drink",
+    "code":"117",
+    "story":"Il Punt e Mes Rendez-Vous è un cocktail della categoria dei Long Drink.",
+    "img":"nofoto",
+    "codes":[
+      45,
+      25,
+      78
+    ],
+    "ingredients": "Punt e Mes, Branca Menta, Soda water",
+    "doses":"2/5 di Punt e Mes,1/5 di Branca Menta,2/5 di soda water",
+    "preparation":"Versare gli ingredienti in un bicchiere colmo di ghiaccio, mescolare ed aggiungere una fetta d'arancia."
+  },
+  {
+    "name":"NEGRONI SBAGLIATO",
+    "category":"Pre Dinner",
+    "code":"118",
+    "story":"Il Negroni sbagliato è un cocktail creato nel Bar Basso di Milano[1][2] nel 1972[3][4] dal bartender Mirko Stocchetto e in genere chiamato semplicemente sbagliato. Differisce dal classico Negroni amaro fiorentino per la presenza dello spumante brut, che sostituisce il gin. Il drink diventa così più leggero grazie alla minore presenza alcolica.",
+    "img":"nofoto",
+    "codes":[
+      55,
+      64,
+      8,
+      71
+    ],
+    "ingredients": "Spumante brut, Vermouth rosso, Bitter Campari, Ghiaccio",
+    "doses":"3 cl di Spumante brut,3 cl di Vermouth rosso (Carpano originariamente),3 cl di Bitter Campari",
+    "preparation":"Mettere gli ingredienti all'interno del bicchiere Old Fashioned colmo di ghiaccio. Mescolare bene con cucchiaio da bar e decorare con una fetta d'arancia."
+  },
+  {
+    "name":"FLAMING LAMBORGHINI",
+    "category":"After Dinner",
+    "code":"119",
+    "story":"Il Flaming Lamborghini (che si può tradurre letteralmente in \"Lamborghini infuocata\") è un cocktail alcolico. Viene servito flambé. Esistono alcune varianti nel presentare questo cocktail; una di queste è presentarlo a forma di torre.",
+    "img":"nofoto",
+    "codes":[
+      52,
+      32,
+      6,
+      21
+    ],
+    "ingredients": "Sambuca, Kahlúa, Baileys, Curaçao Blu",
+    "doses":"2.5/10 di Sambuca,2.5/10 di Kahlúa,2.5/10 di Baileys,2.5/10 di Curaçao Blu",
+    "preparation":"Per preparare il cocktail servono inoltre tre bicchieri: uno da cocktail poco profondo e con apertura piuttosto ampia e due piccoli da shot. Si versa la Sambuca e la Kahlúa in parti uguali nel bicchiere più grande cercando di bagnare anche i bordi interni del bicchiere con la Sambuca. Negli altri due bicchierini si versano i restanti ingredienti: in uno il Baileys e nell'altro il Blue Curaçao. Prima di consumare il cocktail occorre \"accenderlo\" ovvero servire flambé il bicchiere più grande ed iniziare a bere, con una cannuccia, il contenuto mentre, appena iniziato a bere, il barista esperto versa i due bicchierini in quello più grande spegnendo il cocktail. Secondo la tradizione il cocktail va bevuto tutto in una volta."
+  },
+  {
+    "name":"BABY DARLING",
+    "category":"After Dinner",
+    "code":"120",
+    "story":"Il Baby darling è un cocktail creato da Luigi \"Gino\" de Martinis nel 1966. Con questo cocktail, Luigi de Martinis si aggiudicò, nel medesimo anno, il primo premio del concorso nazionale per barman indetto dall'A.I.B.E.S. (Associazione Italiana Barmen E Sostenitori).",
+    "img":"nofoto",
+    "codes":[
+      2,
+      64,
+      48
+    ],
+    "ingredients": "Amaro 18 Isolabella, Vermouth rosso, Rum Scuro",
+    "doses":"2 cl di Amaro 18 Isolabella,2 cl di Vermouth rosso,2 cl di Rum Scuro",
+    "preparation":"Si prepara nel mixing glass con ghiaccio. Si serve in una coppetta da cocktail decorando con buccia d'arancia."
+  }
+]
