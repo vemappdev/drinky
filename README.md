@@ -1,4 +1,4 @@
-# cocktail-app
+# Drinky
 
 # Project Overview
 
