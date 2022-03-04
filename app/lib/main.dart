@@ -75,7 +75,7 @@ class _MainPageState extends State<MainPage> {
               children: [
                 new Container(
                   child: new Image.asset(
-                    'assets/images/logo-christmas.png',
+                    'assets/images/logo.png',
                     height: MediaQuery.of(context).size.height * 0.479,
                     fit: BoxFit.fill,
                   ),

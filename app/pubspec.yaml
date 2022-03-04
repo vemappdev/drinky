@@ -35,9 +35,10 @@ flutter:
 
   assets:
     - assets/images/logo.png
-    - assets/images/bg-menu.png
     - assets/images/logo-christmas.png
+    - assets/images/bg-menu.png
     - assets/images/bg-home.png
+    - assets/images/bg-home-christmas.png
     - assets/images/sad.jpg
     - assets/drink_codes.json
     - assets/ingredient_codes.json
