@@ -48,7 +48,7 @@ class MainPage extends StatefulWidget {
 }
 
 class _MainPageState extends State<MainPage> {
-  Ingredient ingredient;
+  late Ingredient ingredient;
   List<Ingredient> ingredients = [];
   var res;
 
@@ -110,7 +110,7 @@ class _MainPageState extends State<MainPage> {
         child: buildListTile(
             title: 'Mi sento fortunato :)',
             onTap: onTap,
-            icons: Icons.wine_bar));
+            icons: Icons.wine_bar, leading: null));
   }
 
   Widget buildMultipleDrink() {
@@ -120,8 +120,7 @@ class _MainPageState extends State<MainPage> {
         MaterialPageRoute(
             builder: (context) => IngredientPage(
                   isMultiSelection: true,
-                  ingredients: List.of(this.ingredients),
-                )),
+                  ingredients: List.of(this.ingredients))),
       );
 
       if (ingredients == null) return;
@@ -131,7 +130,7 @@ class _MainPageState extends State<MainPage> {
 
     return buildIngredientPicker(
         child: buildListTile(
-            title: 'Cerca un drink con...', onTap: onTap, icons: Icons.search));
+            title: 'Cerca un drink con...', onTap: onTap, icons: Icons.search, leading: null));
   }
 
   Widget buildListDrink() {
@@ -152,10 +151,10 @@ class _MainPageState extends State<MainPage> {
   }
 
   Widget buildListTile({
-    @required String title,
-    @required VoidCallback onTap,
-    @required IconData icons,
-    Widget leading,
+    required String title,
+    required VoidCallback onTap,
+    required IconData icons,
+    Widget? leading,
   }) {
     return ListTile(
       onTap: onTap,
@@ -171,7 +170,7 @@ class _MainPageState extends State<MainPage> {
   }
 
   Widget buildIngredientPicker({
-    @required Widget child,
+    required Widget child,
   }) =>
       Column(
         crossAxisAlignment: CrossAxisAlignment.start,

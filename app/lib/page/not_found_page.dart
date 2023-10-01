@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import '../main.dart';
 
 class NotFoundPage extends StatelessWidget {
-  const NotFoundPage({Key key}) : super(key: key);
+  const NotFoundPage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -47,8 +47,8 @@ class NotFoundPage extends StatelessWidget {
               SizedBox(height: 18),
               ElevatedButton(
                 style: ElevatedButton.styleFrom(
-                  primary: Colors.white,
-                  onPrimary: Colors.black,
+                  backgroundColor: Colors.white,
+                  foregroundColor: Colors.black,
                   shape: const BeveledRectangleBorder(borderRadius: BorderRadius.all(Radius.circular(5))),
                 ),
                 child: Text('Indietro'),

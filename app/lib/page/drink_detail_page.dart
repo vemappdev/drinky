@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 class DrinkDetailPage extends StatelessWidget {
   final Drink drink;
 
-  const DrinkDetailPage({Key key, @required this.drink}) : super(key: key);
+  const DrinkDetailPage({Key? key, required this.drink}) : super(key: key);
 
 
   @override

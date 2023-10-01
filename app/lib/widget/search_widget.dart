@@ -6,10 +6,10 @@ class SearchWidget extends StatefulWidget {
   final String hintText;
 
   const SearchWidget({
-    @required this.text,
-    @required this.onChanged,
-    @required this.hintText,
-    Key key,
+    required this.text,
+    required this.onChanged,
+    required this.hintText,
+    Key? key,
   }) : super(key: key);
 
   @override

@@ -13,7 +13,7 @@ class IngredientPage extends StatefulWidget {
   final List<Ingredient> ingredients;
 
   const IngredientPage({
-    Key key,
+    Key? key,
     this.isMultiSelection = false,
     this.ingredients = const [],
   }) : super(key: key);
@@ -58,7 +58,10 @@ class _IngredientPageState extends State<IngredientPage> {
     final ingredients = allIngredients.where(containsSearchText).toList();
 
     return Scaffold(
-      appBar: buildAppBar(),
+      appBar: PreferredSize(
+        preferredSize: const Size.fromHeight(100),
+        child: buildAppBar(),
+      ),
       body: Column(
         children: <Widget>[
           const SizedBox(height: 10),
@@ -73,7 +76,7 @@ class _IngredientPageState extends State<IngredientPage> {
                 return IngredientListTileWidget(
                   ingredient: ingredient,
                   isSelected: isSelected,
-                  onSelectedIngredient: selectIngredient,
+                  onSelectedIngredient: selectIngredient
                 );
               }).toList(),
             ),
@@ -93,7 +96,7 @@ class _IngredientPageState extends State<IngredientPage> {
         child: SearchWidget(
           text: text,
           onChanged: (text) => setState(() => this.text = text),
-          hintText: 'Cerca Ingredienti',
+          hintText: 'Cerca Ingredienti'
         ),
       ),
     );
@@ -146,7 +149,7 @@ class _IngredientPageState extends State<IngredientPage> {
         style: ElevatedButton.styleFrom(
           shape: StadiumBorder(),
           minimumSize: Size.fromHeight(40),
-          primary: Colors.white,
+          backgroundColor: Colors.white,
         ),
         child: Text(
           label,
