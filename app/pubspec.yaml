@@ -2,23 +2,16 @@ name: drinky
 version: 0.0.3+1
 
 environment:
-  sdk: ">=2.3.0 <3.0.0"
+  sdk: '>=3.1.0 <4.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
-
-  cupertino_icons: ^1.0.0
-
-  flutter_launcher_icons: 0.9.1
-
-  url_launcher: ^6.0.9
-
-  # state management
-  provider: ^4.3.3
-
-  http: ^0.12.0+2
-
+  cupertino_icons: 1.0.6
+  flutter_launcher_icons: 0.13.1
+  url_launcher: 6.1.14
+  provider: 6.0.5
+  http: 1.1.0
 
 dev_dependencies:
   flutter_test:
@@ -32,7 +25,6 @@ flutter_icons:
 
 flutter:
   uses-material-design: true
-
   assets:
     - assets/images/logo.png
     - assets/images/logo-christmas.png
@@ -44,4 +36,3 @@ flutter:
     - assets/ingredient_codes.json
     - assets/images/bottles/
     - assets/images/drinks/
-

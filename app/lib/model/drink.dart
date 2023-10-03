@@ -1,6 +1,5 @@
 import 'dart:convert';
 
-import 'package:meta/meta.dart';
 
 List<Drink> drinksFromJson(String str) => List<Drink>.from(json.decode(str).map((x) => Drink.fromJson(x)));
 
@@ -16,15 +15,15 @@ class Drink {
   final String preparation;
 
   const Drink({
-    @required this.name,
-    @required this.category,
-    @required this.story,
-    @required this.doses,
-    @required this.img,
-    @required this.codes,
-    @required this.code,
-    @required this.ingredients,
-    @required this.preparation,
+    required this.name,
+    required this.category,
+    required this.story,
+    required this.doses,
+    required this.img,
+    required this.codes,
+    required this.code,
+    required this.ingredients,
+    required this.preparation,
   });
 
   factory Drink.fromJson(Map<String, dynamic> json) => Drink(

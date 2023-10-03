@@ -7,10 +7,10 @@ class IngredientListTileWidget extends StatelessWidget {
   final ValueChanged<Ingredient> onSelectedIngredient;
 
   const IngredientListTileWidget({
-    Key key,
-    @required this.ingredient,
-    @required this.isSelected,
-    @required this.onSelectedIngredient,
+    Key? key,
+    required this.ingredient,
+    required this.isSelected,
+    required this.onSelectedIngredient,
   }) : super(key: key);
 
   @override

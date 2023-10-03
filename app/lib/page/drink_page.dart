@@ -9,7 +9,7 @@ class DrinkPage extends StatefulWidget {
   final List<Drink> drinks;
 
   const DrinkPage({
-    Key key,
+    Key? key,
     this.drinks = const [],
   }) : super(key: key);
 
@@ -19,7 +19,7 @@ class DrinkPage extends StatefulWidget {
 
 class _DrinkPageState extends State<DrinkPage> {
   var res;
-  List<Drink> allDrinks;
+  late List<Drink> allDrinks;
   String text = '';
 
   @override
@@ -51,7 +51,10 @@ class _DrinkPageState extends State<DrinkPage> {
     final style = TextStyle(fontSize: 16);
 
     return Scaffold(
-      appBar: buildAppBar(),
+      appBar: PreferredSize(
+        preferredSize: const Size.fromHeight(100),
+        child: buildAppBar(),
+      ),
       body: Column(
         children: <Widget>[
           Expanded(
@@ -118,7 +121,7 @@ class _DrinkPageState extends State<DrinkPage> {
         child: SearchWidget(
           text: text,
           onChanged: (text) => setState(() => this.text = text),
-          hintText: 'Cerca Drink',
+          hintText: 'Cerca Drink'
         ),
       ),
     );

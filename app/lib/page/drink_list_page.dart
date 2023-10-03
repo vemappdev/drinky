@@ -9,7 +9,7 @@ import 'drink_detail_page.dart';
 class DrinkListPage extends StatefulWidget {
   final List<Ingredient> selectedIngredients;
 
-  const DrinkListPage({Key key, @required this.selectedIngredients})
+  const DrinkListPage({Key? key, required this.selectedIngredients})
       : super(key: key);
 
   @override

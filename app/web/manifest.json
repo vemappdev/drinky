@@ -1,11 +1,11 @@
 {
-    "name": "cocktail_app",
-    "short_name": "cocktail_app",
+    "name": "Drinky",
+    "short_name": "Drinky",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Drinky can helps you to choose what drink tonight!",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

@@ -1,5 +1,3 @@
-import 'package:meta/meta.dart';
-
 class Ingredient {
   final String name;
   final String code;
@@ -7,10 +5,10 @@ class Ingredient {
   final String descr;
 
   const Ingredient({
-    @required this.name,
-    @required this.code,
-    @required this.img,
-    @required this.descr,
+    required this.name,
+    required this.code,
+    required this.img,
+    required this.descr,
   });
 
   factory Ingredient.fromJson(Map<String, dynamic> json) => Ingredient(
